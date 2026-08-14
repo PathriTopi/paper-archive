@@ -1,20 +1,18 @@
 # Downloaded Papers
 
-**Adaptive Federated Learning for Distributed Video Anomaly Detection**
+Adaptive Federated Learning for Distributed Video Anomaly Detection
 
-- **Total Downloaded:** 87 papers
-- **Total Indexed:** 280 papers
-- **Coverage:** 31%
-- **Last Updated:** 2026-08-15
+Total Downloaded: 87 papers
+Total Indexed: 280 papers
+Coverage: 31%
+Last Updated: 2026-08-15
 
-> This index shows only papers with downloaded PDFs. For full 280-paper index, see `papers/index.json`.
-
----
+This index shows only papers with downloaded PDFs. For full 280-paper index, see papers/index.json.
 
 ## Papers by Year
 
 
-### 2026 (7 papers)
+2026 (7 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
@@ -26,7 +24,7 @@
 | MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning | Cassandre Notton, Benjamin Stott | 2026 | ARXIV | methodology |
 | SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data | Yiwen Lu | 2026 | ARXIV | federated-learning, privacy-preserving, security |
 
-### 2025 (13 papers)
+2025 (13 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
@@ -44,7 +42,7 @@
 | Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting | Shu Zou, Xinyu Tian | 2025 | ARXIV | anomaly-detection, edge-computing, methodology |
 | WSCIF: A Weakly-Supervised Color Intelligence Framework for Tactical Anomaly Detection in Surveillance Keyframes | Wei Meng | 2025 | ARXIV | anomaly-detection, deep-learning, methodology |
 
-### 2024 (10 papers)
+2024 (10 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
@@ -59,7 +57,7 @@
 | Optimizing Privacy and Processing: Navigating Federated Learning in the Era of Edge Computing | Haocheng Liu | 2024 | CROSSREF | edge-computing, federated-learning, privacy-preserving |
 | SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection | Mathis Kruse, Marco Rudolph | 2024 | ARXIV | anomaly-detection, methodology |
 
-### 2023 (14 papers)
+2023 (14 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
@@ -78,7 +76,7 @@
 | Security for Distributed Machine Learning | Laurent Gomez, Tianchi Yu | 2023 | CROSSREF | distributed-systems |
 | Towards Interpretable Federated Learning | Anran Li, Rui Liu | 2023 | ARXIV | federated-learning, privacy-preserving |
 
-### 2022 (12 papers)
+2022 (12 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
@@ -95,7 +93,7 @@
 | Towards Personalized Federated Learning | Alysa Ziying Tan, Han Yu | 2022 | OPENALEX | federated-learning, privacy-preserving |
 | Trustworthy Anomaly Detection: A Survey | Shuhan Yuan, Xintao Wu | 2022 | ARXIV | anomaly-detection, survey |
 
-### 2021 (3 papers)
+2021 (3 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
@@ -103,7 +101,7 @@
 | Detecting cyberattacks using anomaly detection in industrial control systems: A Federated Learning approach | Trương Thu Hương, Ta Phuong Bac | 2021 | OPENALEX | anomaly-detection, federated-learning, methodology |
 | The Modern Mathematics of Deep Learning | Julius Berner, Philipp Grohs | 2021 | ARXIV | deep-learning, methodology |
 
-### 2020 (10 papers)
+2020 (10 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
@@ -118,7 +116,7 @@
 | UAV-AdNet: Unsupervised Anomaly Detection using Deep Neural Networks for Aerial Surveillance. | Ilker Bozcan, Erdal Kayacan | 2020 | DBLP | anomaly-detection, deep-learning |
 | VAFL: a Method of Vertical Asynchronous Federated Learning | Tianyi Chen, Xiao Jin | 2020 | ARXIV | federated-learning, methodology |
 
-### 2019 (8 papers)
+2019 (8 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
@@ -131,21 +129,21 @@
 | In-Edge AI: Intelligentizing Mobile Edge Computing, Caching and Communication by Federated Learning | Xiaofei Wang, Yiwen Han | 2019 | OPENALEX | edge-computing, federated-learning |
 | Overcoming Forgetting in Federated Learning on Non-IID Data | Neta Shoham, Tomer Avidor | 2019 | ARXIV | federated-learning |
 
-### 2018 (2 papers)
+2018 (2 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
 | A Deep Learning Approach to Network Intrusion Detection | Nathan Shone, Trần Nguyên Ngọc | 2018 | OPENALEX | anomaly-detection, deep-learning, methodology |
 | Privacy-preserving Machine Learning as a Service | Ehsan Hesamifard, Hassan Takabi | 2018 | OPENALEX | deep-learning, methodology, privacy-preserving |
 
-### 2017 (2 papers)
+2017 (2 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
 | Speeding Up Distributed Machine Learning Using Codes | Kangwook Lee, Maximilian Lam | 2017 | OPENALEX | distributed-systems, methodology |
 | When edge meets learning: adaptive control for resource-constrained distributed machine learning | Leung, KK, Wang, S | 2017 | OPENALEX | distributed-systems, edge-computing, privacy-preserving |
 
-### 2016 (3 papers)
+2016 (3 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
@@ -153,29 +151,28 @@
 | A Deep Learning Approach for Network Intrusion Detection System | Ahmad Y. Javaid, Quamar Niyaz | 2016 | OPENALEX | anomaly-detection, deep-learning, methodology |
 | Maximally Divergent Intervals for Anomaly Detection | Erik Rodner, Björn Barz | 2016 | ARXIV | anomaly-detection, methodology |
 
-### 2014 (1 papers)
+2014 (1 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
 | Graph-based Anomaly Detection and Description: A Survey | Leman Akoglu, Hanghang Tong | 2014 | ARXIV | anomaly-detection, survey |
 
-### 2010 (1 papers)
+2010 (1 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
 | A Semi-distributed Reputation Based Intrusion Detection System for Mobile Adhoc Networks | Animesh Kr Trivedi, Rajan Arora | 2010 | ARXIV | anomaly-detection, distributed-systems, security |
 
-### 1970 (1 papers)
+1970 (1 papers)
 
 | Title | Authors | Year | Source | Tags |
 |-------|---------|------|--------|------|
 | Privacy Preserving Machine Learning as a Service | Ehsan Hesamifard | 1970 | CROSSREF | deep-learning, methodology, privacy-preserving |
 
----
 
-## Statistics
+Statistics
 
-### By Source
+By Source
 
 | Source | Downloaded | Coverage |
 |--------|------------|----------|
@@ -184,4 +181,4 @@
 | DBLP | 6/80 | 7% |
 | OPENALEX | 17/77 | 22% |
 
-**Total:** 87/280 papers downloaded (31%)
+Total: 87/280 papers downloaded (31%)
