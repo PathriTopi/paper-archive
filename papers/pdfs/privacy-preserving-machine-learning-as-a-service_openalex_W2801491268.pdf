@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <title>PoPETs Proceedings — Privacy-preserving Machine Learning as a Service</title>
+  <style>
+  @import url(../../common/respstyle.css);
+  </style>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <meta name="citation_title" content="Privacy-preserving Machine Learning as a Service" />
+<meta name="citation_author" content="Ehsan Hesamifard" />
+<meta name="citation_author" content="Hassan Takabi" />
+<meta name="citation_author" content="Mehdi Ghasemi" />
+<meta name="citation_author" content="Rebecca N. Wright" />
+<meta name="citation_journal_title" content="Proceedings on Privacy Enhancing Technologies" />
+<meta name="citation_issn" content="2299-0984" />
+<meta name="citation_publication_date" content="2018" />
+<meta name="citation_publication_volume" content="2018" />
+<meta name="citation_publication_issue" content="3" />
+<meta name="citation_publication_firstpage" content="123" />
+<meta name="citation_publication_lastpage" content="142" />
+<meta name="citation_pdf_url" content="https://petsymposium.org/popets/2018/popets-2018-0024.pdf" /></head>
+
+<body>
+
+<div class="container">
+
+
+  <img class="banner" src="/images/banner/banner_popets.png">
+
+
+<div class="nav-main">
+<label for="show-menu" class="show-menu">Menu</label>
+    <input type="checkbox" id="show-menu" role="button">
+  <ul id="menu">
+    <li><a  href="/">Home</a></li>
+    <li><a  href="/popets/">Proceedings</a></li>
+            <li><a href=".">Volume 2018</a></li>
+            <li><a href="popets-2018-0023.php">Previous</a></li>
+            <li><a href="popets-2018-0025.php">Next</a></li>
+      </ul>
+</div>
+
+
+<div class="content">
+
+<h2>Privacy-preserving Machine Learning as a Service</h2>
+
+<p><b>Authors:</b> Ehsan Hesamifard (Department of Computer Science and Engineering, University of North Texas, Denton, TX, USA), Hassan Takabi (Department of Computer Science and Engineering, University of North Texas, Denton, TX, USA), Mehdi Ghasemi (Department of Mathematics and Statistics, University of Saskatchewan, Saskatoon, Canada), Rebecca N. Wright (Department of Computer Science, Rutgers University, Piscataway, NJ, USA)</p>
+
+<p><b>Volume:</b> 2018<br />
+<b>Issue:</b> 3<br />
+<b>Pages:</b> 123&ndash;142<br />
+<b>DOI:</b> <a href="https://doi.org/10.1515/popets-2018-0024">https://doi.org/10.1515/popets-2018-0024</a></p>
+
+<p><b><a href="popets-2018-0024.pdf">Download PDF</a></b></p>
+
+<p><b>Abstract:</b> Machine learning algorithms based on deep Neural Networks (NN) have achieved remarkable results and are being extensively used in different domains. On the other hand, with increasing growth of cloud services, several Machine Learning as a Service (MLaaS) are offered where training and deploying machine learning models are performed on cloud providers’ infrastructure. However, machine learning algorithms require access to the raw data which is often privacy sensitive and can create potential security and privacy risks. To address this issue, we present CryptoDL, a framework that develops new techniques to provide solutions for applying deep neural network algorithms to encrypted data. In this paper, we provide the theoretical foundation for implementing deep neural network algorithms in encrypted domain and develop techniques to adopt neural networks within practical limitations of current homomorphic encryption schemes. We show that it is feasible and practical to train neural networks using encrypted data and to make encrypted predictions, and also return the predictions in an encrypted form. We demonstrate applicability of the proposed CryptoDL using a large number of datasets and evaluate its performance. The empirical results show that it provides accurate privacy-preserving training and classification.</p>
+<p><b>Keywords:</b> Privacy, Machine Learning as a Service, Homomorphic Encryption, Deep Learning</p>
+
+<p>Copyright in PoPETs articles are held by their authors.  This article
+is published under a <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">Creative
+Commons Attribution-NonCommercial-NoDerivs 3.0</a> license.</p>
+
+<a href="popets-2018-0024.pdf"><img src="/2018/files/papers/popets/10.1515_popets-2018-0024.png" /></a>
+
+</div>
+
+
+<div class="footer">
+    <div class="nav-footer">
+        <a href="/contact.php">Contact Us</a>
+    </div>
+    <div class="sns-footer">
+        <a href="https://youtube.com/channel/UC-m6oi7a-8LffTk64J3tq-w" target="_blank"><img class="sns-icon" src="/images/icons/yt_icon_mono_dark.png"></a>
+        <a href="https://twitter.com/pet_symposium" target="_blank"><img class="sns-icon" src="/images/icons/twitter.png"></a>
+        <a href="https://infosec.exchange/@PET_Symposium" target="_blank"><img class="sns-icon" src="/images/icons/mastodon-logo-white.png"></a>
+         <a href="https://www.linkedin.com/company/pet-symposium" target="_blank"><img class="sns-icon" src="/images/icons/InBug-White.png"></a>
+</div>
+</div>
+
+
+</body>
+</html>

@@ -178,7 +178,7 @@
       "url": "https://dblp.org/rec/journals/cogcom/AiSWJZTZ26",
       "source": "dblp",
       "paper_id": "AiSWJZTZ26",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/hierarchical-mean-field-theory-based-off-policy-gr_dblp_AiSWJZTZ26.pdf",
       "summary": "Research paper: Hierarchical Mean-Field Theory-based Off-Policy GRPO for Fed",
       "tags": [
         "edge-computing",
@@ -245,7 +245,7 @@
       "url": "https://doi.org/10.55677/craj/10-2026-vol03i06",
       "source": "crossref",
       "paper_id": "10.55677/craj/10-2026-vol03i06",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/enhancing-network-intrusion-detection-systems-usin_crossref_10.55677_craj_10-2026-vol03i06.pdf",
       "summary": "<jats:p>Deep learning has revolutionised pattern recognition by integrating feature extraction and classification into end-to-end models, eliminating the need for manual feature engineering. This survey paper reviews recent advancements in deep learning\u2013based anomaly detection for network intrusion ...",
       "tags": [
         "anomaly-detection",
@@ -736,7 +736,7 @@
       "url": "https://doi.org/10.5220/0013134100003928",
       "source": "crossref",
       "paper_id": "10.5220/0013134100003928",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/advancing-network-anomaly-detection-using-deep-lea_crossref_10.5220_0013134100003928.pdf",
       "summary": "Research paper: Advancing Network Anomaly Detection Using Deep Learning and ",
       "tags": [
         "anomaly-detection",
@@ -776,7 +776,7 @@
       "url": "https://doi.org/10.64388/irev9i6-1712702",
       "source": "crossref",
       "paper_id": "10.64388/irev9i6-1712702",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/federated-learning-based-anomaly-network-intrusion_crossref_10.64388_irev9i6-1712702.pdf",
       "summary": "Research paper: Federated Learning Based Anomaly Network Intrusion Detection",
       "tags": [
         "anomaly-detection",
@@ -798,7 +798,7 @@
       "url": "http://arxiv.org/abs/2503.04971v2",
       "source": "arxiv",
       "paper_id": "2503.04971v2",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/incentivizing-multi-tenant-split-federated-learnin_arxiv_2503.04971.pdf",
       "summary": "Foundation models (FMs) such as GPT-4 exhibit exceptional generative capabilities across diverse downstream tasks through fine-tuning. Split Federated Learning (SFL) facilitates privacy-preserving FM fine-tuning on resource-constrained local devices by offloading partial FM computations to edge serv...",
       "tags": [
         "edge-computing",
@@ -1094,7 +1094,7 @@
       "url": "https://dblp.org/rec/journals/ict-express/Hossain25",
       "source": "dblp",
       "paper_id": "Hossain25",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/deep-q-learning-intrusion-detection-system--dq-ids_dblp_Hossain25.pdf",
       "summary": "Research paper: Deep Q-learning intrusion detection system (DQ-IDS): A novel",
       "tags": [
         "anomaly-detection",
@@ -1382,7 +1382,7 @@
       "url": "https://dblp.org/rec/journals/air/NguyenDCBLKTMG25",
       "source": "dblp",
       "paper_id": "NguyenDCBLKTMG25",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/landscape-of-machine-learning-evolution--privacy-p_dblp_NguyenDCBLKTMG25.pdf",
       "summary": "Research paper: Landscape of machine learning evolution: privacy-preserving ",
       "tags": [
         "federated-learning",
@@ -1424,7 +1424,7 @@
       "url": "https://dblp.org/rec/conf/enase/DhrirCK25",
       "source": "dblp",
       "paper_id": "DhrirCK25",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/advancing-network-anomaly-detection-using-deep-lea_dblp_DhrirCK25.pdf",
       "summary": "Research paper: Advancing Network Anomaly Detection Using Deep Learning and ",
       "tags": [
         "anomaly-detection",
@@ -1622,7 +1622,7 @@
       "url": "https://doi.org/10.21275/es24903163414",
       "source": "crossref",
       "paper_id": "10.21275/es24903163414",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/federated-learning-in-edge-computing-environments_crossref_10.21275_es24903163414.pdf",
       "summary": "Research paper: Federated Learning in Edge Computing Environments: Opportuni",
       "tags": [
         "edge-computing",
@@ -1641,7 +1641,7 @@
       "url": "https://doi.org/10.5220/0012969100004508",
       "source": "crossref",
       "paper_id": "10.5220/0012969100004508",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/optimizing-privacy-and-processing--navigating-fede_crossref_10.5220_0012969100004508.pdf",
       "summary": "Research paper: Optimizing Privacy and Processing: Navigating Federated Lear",
       "tags": [
         "edge-computing",
@@ -1701,7 +1701,7 @@
       "url": "https://dblp.org/rec/journals/ir/AlarsK24",
       "source": "dblp",
       "paper_id": "AlarsK24",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/enhancing-network-intrusion-detection-systems-with_dblp_AlarsK24.pdf",
       "summary": "Research paper: Enhancing network intrusion detection systems with combined ",
       "tags": [
         "anomaly-detection",
@@ -1871,7 +1871,7 @@
       "url": "https://doi.org/10.21275/ms241022095645",
       "source": "crossref",
       "paper_id": "10.21275/ms241022095645",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/federated-learning--privacy-preserving-machine-lea_crossref_10.21275_ms241022095645.pdf",
       "summary": "Research paper: Federated Learning: Privacy-Preserving Machine Learning in C",
       "tags": [
         "federated-learning",
@@ -1990,7 +1990,7 @@
       "url": "https://doi.org/10.5220/0012356300003654",
       "source": "crossref",
       "paper_id": "10.5220/0012356300003654",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/clip--assisted-video-anomaly-detection_crossref_10.5220_0012356300003654.pdf",
       "summary": "Research paper: CLIP: Assisted Video Anomaly Detection",
       "tags": [
         "anomaly-detection",
@@ -2186,7 +2186,7 @@
       "url": "https://doi.org/10.1016/j.patcog.2024.110424",
       "source": "openalex",
       "paper_id": "W4392699793",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/federated-learning-for-medical-image-analysis--a-s_openalex_W4392699793.pdf",
       "summary": "Research paper: Federated learning for medical image analysis: A survey",
       "tags": [
         "federated-learning",
@@ -2305,7 +2305,7 @@
       "url": "https://doi.org/10.5772/intechopen.110747",
       "source": "crossref",
       "paper_id": "10.5772/intechopen.110747",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/federated-learning-hyper-parameter-tuning-for-edge_crossref_10.5772_intechopen.110747.pdf",
       "summary": "<jats:p>Edge computing is widely recognized as a crucial technology for the upcoming generation of communication networks and has garnered significant interest from both industry and academia. Compared to other offloading models like cloud computing, it provides faster data processing capabilities, ...",
       "tags": [
         "edge-computing",
@@ -2647,7 +2647,7 @@
       "url": "https://doi.org/10.5220/0012137700003555",
       "source": "crossref",
       "paper_id": "10.5220/0012137700003555",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/security-for-distributed-machine-learning_crossref_10.5220_0012137700003555.pdf",
       "summary": "Research paper: Security for Distributed Machine Learning",
       "tags": [
         "distributed-systems"
@@ -3397,7 +3397,7 @@
       "url": "https://doi.org/10.1109/tnnls.2022.3160699",
       "source": "openalex",
       "paper_id": "W3133814152",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/towards-personalized-federated-learning_openalex_W3133814152.pdf",
       "summary": "In parallel with the rapid adoption of artificial intelligence (AI) empowered by advances in AI research, there has been growing awareness and concerns of data privacy. Recent significant developments in the data regulation landscape have prompted a seismic shift in interest toward privacy-preservin...",
       "tags": [
         "federated-learning",
@@ -3421,7 +3421,7 @@
       "url": "https://doi.org/10.1007/s13042-022-01647-y",
       "source": "openalex",
       "paper_id": "W4309080560",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/a-survey-on-federated-learning--challenges-and-app_openalex_W4309080560.pdf",
       "summary": "Research paper: A survey on federated learning: challenges and applications",
       "tags": [
         "federated-learning",
@@ -3494,7 +3494,7 @@
       "url": "https://doi.org/10.1016/j.comcom.2022.09.012",
       "source": "openalex",
       "paper_id": "W3171802458",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/federated-learning-for-intrusion-detection-system_openalex_W3171802458.pdf",
       "summary": "Research paper: Federated Learning for intrusion detection system: Concepts,",
       "tags": [
         "anomaly-detection",
@@ -3540,7 +3540,7 @@
       "url": "https://doi.org/10.1016/j.hcc.2021.100008",
       "source": "openalex",
       "paper_id": "W3137762252",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/a-survey-of-federated-learning-for-edge-computing_openalex_W3137762252.pdf",
       "summary": "Federated Learning is a machine learning scheme in which a shared prediction model can be collaboratively learned by a number of distributed nodes using their locally stored data. It can provide better data privacy because training data are not transmitted to a central server. Federated learning is ...",
       "tags": [
         "distributed-systems",
@@ -3760,7 +3760,7 @@
       "url": "https://doi.org/10.1016/j.compind.2021.103509",
       "source": "openalex",
       "paper_id": "W3186788521",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/detecting-cyberattacks-using-anomaly-detection-in_openalex_W3186788521.pdf",
       "summary": "Research paper: Detecting cyberattacks using anomaly detection in industrial",
       "tags": [
         "anomaly-detection",
@@ -4240,7 +4240,7 @@
       "url": "https://doi.org/10.1561/2200000083",
       "source": "openalex",
       "paper_id": "W2995022099",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/advances-and-open-problems-in-federated-learning_openalex_W2995022099.pdf",
       "summary": "Federated learning (FL) is a machine learning setting where many clients (e.g., mobile devices or whole organizations) collaboratively train a model under the orchestration of a central server (e.g., service provider), while keeping the training data decentralized. FL embodies the principles of focu...",
       "tags": [
         "distributed-systems",
@@ -4445,7 +4445,7 @@
       "url": "https://dblp.org/rec/conf/iros/BozcanK20",
       "source": "dblp",
       "paper_id": "BozcanK20",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/uav-adnet--unsupervised-anomaly-detection-using-de_dblp_BozcanK20.pdf",
       "summary": "Research paper: UAV-AdNet: Unsupervised Anomaly Detection using Deep Neural ",
       "tags": [
         "anomaly-detection",
@@ -4578,7 +4578,7 @@
       "url": "https://doi.org/10.1109/jiot.2020.3011726",
       "source": "openalex",
       "paper_id": "W3044515030",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/deep-anomaly-detection-for-time-series-data-in-ind_openalex_W3044515030.pdf",
       "summary": "Since edge device failures (i.e., anomalies) seriously affect the production of industrial products in Industrial IoT (IIoT), accurately and timely detecting anomalies are becoming increasingly important. Furthermore, data collected by the edge device contain massive user's private data, which is ch...",
       "tags": [
         "anomaly-detection",
@@ -4601,7 +4601,7 @@
       "url": "https://doi.org/10.1038/s42256-020-0186-1",
       "source": "openalex",
       "paper_id": "W3033511014",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/secure--privacy-preserving-and-federated-machine-l_openalex_W3033511014.pdf",
       "summary": "The broad application of artificial intelligence techniques in medicine is currently hindered by limited dataset availability for algorithm training and validation, due to the absence of standardized electronic medical records, and strict legal and ethical requirements to protect patient privacy. In...",
       "tags": [
         "federated-learning",
@@ -4949,7 +4949,7 @@
       "url": "https://doi.org/10.1109/mnet.2019.1800286",
       "source": "openalex",
       "paper_id": "W2962804345",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/in-edge-ai--intelligentizing-mobile-edge-computing_openalex_W2962804345.pdf",
       "summary": "Recently, along with the rapid development of mobile communication technology, edge computing theory and techniques have been attracting more and more attention from global researchers and engineers, which can significantly bridge the capacity of cloud and requirement of devices by the network edges...",
       "tags": [
         "edge-computing",
@@ -5062,7 +5062,7 @@
       "url": "https://doi.org/10.1016/j.jisa.2019.102419",
       "source": "openalex",
       "paper_id": "W2991507433",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/deep-learning-for-cyber-security-intrusion-detecti_openalex_W2991507433.pdf",
       "summary": "Research paper: Deep learning for cyber security intrusion detection: Approa",
       "tags": [
         "anomaly-detection",
@@ -5289,7 +5289,7 @@
       "url": "https://doi.org/10.1109/tetci.2017.2772792",
       "source": "openalex",
       "paper_id": "W2783741806",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/a-deep-learning-approach-to-network-intrusion-dete_openalex_W2783741806.pdf",
       "summary": "Network intrusion detection systems (NIDSs) play a crucial role in defending computer networks. However, there are concerns regarding the feasibility and sustainability of current approaches when faced with the demands of modern networks. More specifically, these concerns relate to the increasing le...",
       "tags": [
         "anomaly-detection",
@@ -5337,7 +5337,7 @@
       "url": "https://doi.org/10.1515/popets-2018-0024",
       "source": "openalex",
       "paper_id": "W2801491268",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/privacy-preserving-machine-learning-as-a-service_openalex_W2801491268.pdf",
       "summary": "Abstract Machine learning algorithms based on deep Neural Networks (NN) have achieved remarkable results and are being extensively used in different domains. On the other hand, with increasing growth of cloud services, several Machine Learning as a Service (MLaaS) are offered where training and depl...",
       "tags": [
         "deep-learning",
@@ -5496,7 +5496,7 @@
       "url": "https://doi.org/10.1109/tit.2017.2736066",
       "source": "openalex",
       "paper_id": "W2268702383",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/speeding-up-distributed-machine-learning-using-cod_openalex_W2268702383.pdf",
       "summary": "Codes are widely used in many engineering applications to offerrobustnessagainstnoise. In large-scale systems, there are several types of noise that can affect the performance of distributed machine learning algorithms\u2014straggler nodes, system failures, or communication bottlenecks\u2014but there has been...",
       "tags": [
         "distributed-systems",
@@ -5521,7 +5521,7 @@
       "url": "http://hdl.handle.net/10044/1/58765",
       "source": "openalex",
       "paper_id": "W2962788286",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/when-edge-meets-learning--adaptive-control-for-res_openalex_W2962788286.pdf",
       "summary": "Emerging technologies and applications including Internet of Things (IoT), social networking, and crowd-sourcing generate large amounts of data at the network edge. Machine learning models are often built from the collected data, to enable the detection, classification, and prediction of future even...",
       "tags": [
         "distributed-systems",
@@ -5544,7 +5544,7 @@
       "url": "https://doi.org/10.4108/eai.3-12-2015.2262516",
       "source": "openalex",
       "paper_id": "W2399941526",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/a-deep-learning-approach-for-network-intrusion-det_openalex_W2399941526.pdf",
       "summary": "A Network Intrusion Detection System (NIDS) helps system administrators to detect network security breaches in their organizations. However, many challenges arise while developing a flexible and efficient NIDS for unforeseen and unpredictable attacks. We propose a deep learning based approach for",
       "tags": [
         "anomaly-detection",
@@ -5635,7 +5635,7 @@
       "url": "https://doi.org/10.1371/journal.pone.0152173",
       "source": "openalex",
       "paper_id": "W2337344967",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/a-comparative-evaluation-of-unsupervised-anomaly-d_openalex_W2337344967.pdf",
       "summary": "Anomaly detection is the process of identifying unexpected items or events in datasets, which differ from the norm. In contrast to standard classification tasks, anomaly detection is often applied on unlabeled data, taking only the internal structure of the dataset into account. This challenge is kn...",
       "tags": [
         "anomaly-detection",
@@ -6151,7 +6151,7 @@
       "url": "https://doi.org/10.12794/metadc1703277",
       "source": "crossref",
       "paper_id": "10.12794/metadc1703277",
-      "local_pdf_path": null,
+      "local_pdf_path": "papers/pdfs/privacy-preserving-machine-learning-as-a-service_crossref_10.12794_metadc1703277.pdf",
       "summary": "<jats:p xml:lang=\"en\">Machine learning algorithms based on neural networks have achieved remarkable results and are being extensively used in different domains. However, the machine learning algorithms requires access to raw data which is often privacy sensitive. To address this issue, we develop ne...",
       "tags": [
         "deep-learning",
