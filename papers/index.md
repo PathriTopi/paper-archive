@@ -1,380 +1,309 @@
-# Research Paper Archive
+# Paper Index
 
-Adaptive Federated Learning for Distributed Video Anomaly Detection
+_55 papers — auto-generated from `index.json`. Do not edit by hand._
 
-**Total Papers:** 280
-**Last Updated:** 2026-08-14T23:21:43.239788
+| Title | Authors | Year | Source | DOI/URL | Tags | PDF |
+|---|---|---|---|---|---|---|
+| Federated Attention Autoencoders with a Stochastic Aggregation Scheme for Anomaly Detection | ['Mihailo Ilić', 'Miloš Savić', 'Vladimir Kurbalija', 'Mirjana Ivanović', 'Giancarlo Fortino', 'Dušan Jakovetić'] | 2026 | arxiv | 10.1109/FLTA67013.2025.11336743 | anomaly-detection, deep-learning, distributed-systems | [PDF](papers/pdfs/federated-attention-autoencoders-with-a_arxiv_2608.08906v1.pdf) |
+| EdgeFaaS: A Function-based Framework for Edge Computing | ['Neha Vadnere', 'Yu-Ting Wang', 'Yitao Chen', 'Sreehari Sadesh', 'Ming Zhao'] | 2026 | arxiv | [http://arxiv.org/abs/2607.14489v1](http://arxiv.org/abs/2607.14489v1) | distributed-systems, edge-computing, methodology | [PDF](papers/pdfs/edgefaas-a-function-based-framework-for-edge_arxiv_2607.14489v1.pdf) |
+| Dueling Deep Q-Learning for Intrusion Detection | ['Logan Luna', 'Matthew P. Berkowitz', 'Laxima Niure Kandel', "Sirio Jansen-S'anchez"] | 2026 | arxiv | 10.1109/SOUTHEASTCON56624.2025.10971436 | anomaly-detection, methodology, security | [PDF](papers/pdfs/dueling-deep-q-learning-for-intrusion-detection_arxiv_2608.11291v1.pdf) |
+| SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data | ['Yiwen Lu'] | 2026 | arxiv | [http://arxiv.org/abs/2602.16480v1](http://arxiv.org/abs/2602.16480v1) | federated-learning, privacy-preserving, security | [PDF](papers/pdfs/srfed-mitigating-poisoning-attacks-in-privacy_arxiv_2602.16480v1.pdf) |
+| MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning | ['Cassandre Notton', 'Benjamin Stott', 'Philippe Schoeb', 'Anthony Walsh', 'Grégoire Leboucher', 'Vincent Espitalier', 'Vassilis Apostolou', 'Louis-Félix Vigneux', 'Alexia Salavrakos', 'Jean Senellart'] | 2026 | arxiv | [http://arxiv.org/abs/2602.11092v2](http://arxiv.org/abs/2602.11092v2) | methodology | [PDF](papers/pdfs/merlin-a-discovery-engine-for-photonic-and-hybrid_arxiv_2602.11092v2.pdf) |
+| Incentivizing Multi-Tenant Split Federated Learning for Foundation Models at the Network Edge | ['Songyuan Li', 'Jia Hu', 'Geyong Min', 'Haojun Huang'] | 2025 | arxiv | 10.1109/TON.2026.3654114 | edge-computing, federated-learning, privacy-preserving |  |
+| Intelligent Offloading in Vehicular Edge Computing: A Comprehensive Review of Deep Reinforcement Learning Approaches and Architectures | ['Ashab Uddin', 'Ahmed Hamdi Sakr', 'Ning Zhang'] | 2025 | arxiv | [http://arxiv.org/abs/2502.06963v3](http://arxiv.org/abs/2502.06963v3) | edge-computing, methodology, survey | [PDF](papers/pdfs/intelligent-offloading-in-vehicular-edge_arxiv_2502.06963v3.pdf) |
+| CST-AFNet: A dual attention-based deep learning framework for intrusion detection in IoT networks | ['Waqas Ishtiaq', 'Ashrafun Zannat', 'A. H. M. Shahariar Parvez', 'Md. Alamgir Hossain', 'Muntasir Hasan Kanchan', 'Muhammad Masud Tarek'] | 2025 | arxiv | 10.1016/j.array.2025.100501 | anomaly-detection, deep-learning, distributed-systems | [PDF](papers/pdfs/cst-afnet-a-dual-attention-based-deep-learning_arxiv_2510.02717v1.pdf) |
+| WSCIF: A Weakly-Supervised Color Intelligence Framework for Tactical Anomaly Detection in Surveillance Keyframes | ['Wei Meng'] | 2025 | arxiv | [http://arxiv.org/abs/2505.09129v1](http://arxiv.org/abs/2505.09129v1) | anomaly-detection, deep-learning, methodology | [PDF](papers/pdfs/wscif-a-weakly-supervised-color-intelligence_arxiv_2505.09129v1.pdf) |
+| Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting | ['Shu Zou', 'Xinyu Tian', 'Lukas Wesemann', 'Fabian Waschkowski', 'Zhaoyuan Yang', 'Jing Zhang'] | 2025 | arxiv | [http://arxiv.org/abs/2510.02155v1](http://arxiv.org/abs/2510.02155v1) | anomaly-detection, edge-computing, methodology | [PDF](papers/pdfs/unlocking-vision-language-models-for-video_arxiv_2510.02155v1.pdf) |
+| Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning | ['Mominul Rubel', 'Adam Meyers', 'Gabriel Nicolosi'] | 2025 | arxiv | [http://arxiv.org/abs/2509.08759v3](http://arxiv.org/abs/2509.08759v3) | deep-learning | [PDF](papers/pdfs/fourier-learning-machines-nonharmonic-fourier_arxiv_2509.08759v3.pdf) |
+| DUAL-VAD: Dual Benchmarks and Anomaly-Focused Sampling for Video Anomaly Detection | ['Seoik Jung', 'Taekyung Song', 'Joshua Jordan Daniel', 'JinYoung Lee', 'SungJun Lee'] | 2025 | arxiv | [http://arxiv.org/abs/2509.11605v2](http://arxiv.org/abs/2509.11605v2) | anomaly-detection, video-anomaly-detection | [PDF](papers/pdfs/dual-vad-dual-benchmarks-and-anomaly-focused_arxiv_2509.11605v2.pdf) |
+| SmartHome-Bench: A Comprehensive Benchmark for Video Anomaly Detection in Smart Homes Using Multi-Modal Large Language Models | ['Xinyi Zhao', 'Congjing Zhang', 'Pei Guo', 'Wei Li', 'Lin Chen', 'Chaoyue Zhao', 'Shuai Huang'] | 2025 | arxiv | [http://arxiv.org/abs/2506.12992v1](http://arxiv.org/abs/2506.12992v1) | anomaly-detection, video-anomaly-detection | [PDF](papers/pdfs/smarthome-bench-a-comprehensive-benchmark-for_arxiv_2506.12992v1.pdf) |
+| Distributed Deep Reinforcement Learning Based Gradient Quantization for Federated Learning Enabled Vehicle Edge Computing | ['Cui Zhang', 'Wenjun Zhang', 'Qiong Wu', 'Pingyi Fan', 'Qiang Fan', 'Jiangzhou Wang', 'Khaled B. Letaief'] | 2024 | arxiv | [http://arxiv.org/abs/2407.08462v2](http://arxiv.org/abs/2407.08462v2) | distributed-systems, edge-computing, federated-learning | [PDF](papers/pdfs/distributed-deep-reinforcement-learning-based_arxiv_2407.08462v2.pdf) |
+| Anomaly Detection of Tabular Data Using LLMs | ['Aodong Li', 'Yunhan Zhao', 'Chen Qiu', 'Marius Kloft', 'Padhraic Smyth', 'Maja Rudolph', 'Stephan Mandt'] | 2024 | arxiv | [http://arxiv.org/abs/2406.16308v1](http://arxiv.org/abs/2406.16308v1) | anomaly-detection | [PDF](papers/pdfs/anomaly-detection-of-tabular-data-using-llms_arxiv_2406.16308v1.pdf) |
+| SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection | ['Mathis Kruse', 'Marco Rudolph', 'Dominik Woiwode', 'Bodo Rosenhahn'] | 2024 | arxiv | [http://arxiv.org/abs/2404.06832v1](http://arxiv.org/abs/2404.06832v1) | anomaly-detection, methodology | [PDF](papers/pdfs/splatpose-detect-pose-agnostic-3d-anomaly_arxiv_2404.06832v1.pdf) |
+| Data Poisoning and Leakage Analysis in Federated Learning | ['Wenqi Wei', 'Tiansheng Huang', 'Zachary Yahn', 'Anoop Singhal', 'Margaret Loper', 'Ling Liu'] | 2024 | arxiv | 10.1007/978-3-031-58923-2_3 | anomaly-detection, federated-learning, privacy-preserving | [PDF](papers/pdfs/data-poisoning-and-leakage-analysis-in-federated_arxiv_2409.13004v1.pdf) |
+| Learning Representation for Anomaly Detection of Vehicle Trajectories | ['Ruochen Jiao', 'Juyang Bai', 'Xiangguo Liu', 'Takami Sato', 'Xiaowei Yuan', 'Qi Alfred Chen', 'Qi Zhu'] | 2023 | arxiv | [http://arxiv.org/abs/2303.05000v1](http://arxiv.org/abs/2303.05000v1) | anomaly-detection, security | [PDF](papers/pdfs/learning-representation-for-anomaly-detection-of_arxiv_2303.05000v1.pdf) |
+| Autoencoder-based Anomaly Detection in Streaming Data with Incremental Learning and Concept Drift Adaptation | ['Jin Li', 'Kleanthis Malialis', 'Marios M. Polycarpou'] | 2023 | arxiv | 10.1109/IJCNN54540.2023.10191328 | anomaly-detection, deep-learning | [PDF](papers/pdfs/autoencoder-based-anomaly-detection-in-streaming_arxiv_2305.08977v2.pdf) |
+| Evaluating Multi-Global Server Architecture for Federated Learning | ['Asfia Kawnine', 'Hung Cao', 'Atah Nuh Mih', 'Monica Wachowicz'] | 2023 | arxiv | [http://arxiv.org/abs/2311.15382v1](http://arxiv.org/abs/2311.15382v1) | distributed-systems, edge-computing, federated-learning | [PDF](papers/pdfs/evaluating-multi-global-server-architecture-for_arxiv_2311.15382v1.pdf) |
+| Online Self-Supervised Deep Learning for Intrusion Detection Systems | ['Mert Nakıp', 'Erol Gelenbe'] | 2023 | arxiv | 10.1109/TIFS.2024.3402148 | anomaly-detection, deep-learning, methodology | [PDF](papers/pdfs/online-self-supervised-deep-learning-for_arxiv_2306.13030v2.pdf) |
+| Learn to Accumulate Evidence from All Training Samples: Theory and Practice | ['Deep Pandey', 'Qi Yu'] | 2023 | arxiv | [http://arxiv.org/abs/2306.11113v2](http://arxiv.org/abs/2306.11113v2) | deep-learning | [PDF](papers/pdfs/learn-to-accumulate-evidence-from-all-training_arxiv_2306.11113v2.pdf) |
+| Privacy-preserving machine learning for healthcare: open challenges and future perspectives | ['Alejandro Guerra-Manzanares', 'L. Julian Lechuga Lopez', 'Michail Maniatakos', 'Farah E. Shamout'] | 2023 | arxiv | 10.1007/978-3-031-39539-0_3 | privacy-preserving, survey | [PDF](papers/pdfs/privacy-preserving-machine-learning-for_arxiv_2303.15563v1.pdf) |
+| Changing Data Sources in the Age of Machine Learning for Official Statistics | ['Cedric De Boom', 'Michael Reusens'] | 2023 | arxiv | [http://arxiv.org/abs/2306.04338v1](http://arxiv.org/abs/2306.04338v1) |  | [PDF](papers/pdfs/changing-data-sources-in-the-age-of-machine_arxiv_2306.04338v1.pdf) |
+| Approximate, Adapt, Anonymize (3A): a Framework for Privacy Preserving Training Data Release for Machine Learning | ['Tamas Madl', 'Weijie Xu', 'Olivia Choudhury', 'Matthew Howard'] | 2023 | arxiv | [http://arxiv.org/abs/2307.01875v1](http://arxiv.org/abs/2307.01875v1) | methodology, privacy-preserving | [PDF](papers/pdfs/approximate-adapt-anonymize-3a-a-framework-for_arxiv_2307.01875v1.pdf) |
+| Active learning for data streams: a survey | ['Davide Cacciarelli', 'Murat Kulahci'] | 2023 | arxiv | 10.1007/s10994-023-06454-2 | survey | [PDF](papers/pdfs/active-learning-for-data-streams-a-survey_arxiv_2302.08893v4.pdf) |
+| Physics-Inspired Interpretability Of Machine Learning Models | ['Maximilian P Niroomand', 'David J Wales'] | 2023 | arxiv | [http://arxiv.org/abs/2304.02381v2](http://arxiv.org/abs/2304.02381v2) | methodology | [PDF](papers/pdfs/physics-inspired-interpretability-of-machine_arxiv_2304.02381v2.pdf) |
+| Representation Learning in Anomaly Detection: Successes, Limits and a Grand Challenge | ['Yedid Hoshen'] | 2023 | arxiv | [http://arxiv.org/abs/2307.11085v1](http://arxiv.org/abs/2307.11085v1) | anomaly-detection | [PDF](papers/pdfs/representation-learning-in-anomaly-detection_arxiv_2307.11085v1.pdf) |
+| Towards Interpretable Federated Learning | ['Anran Li', 'Rui Liu', 'Ming Hu', 'Yuanyuan Chen', 'Shipeng Wang', 'Lizhen Cui', 'Han Yu'] | 2023 | arxiv | [http://arxiv.org/abs/2302.13473v2](http://arxiv.org/abs/2302.13473v2) | federated-learning, privacy-preserving | [PDF](papers/pdfs/towards-interpretable-federated-learning_arxiv_2302.13473v2.pdf) |
+| Federated and Transfer Learning: A Survey on Adversaries and Defense Mechanisms | ['Ehsan Hallaji', 'Roozbeh Razavi-Far', 'Mehrdad Saif'] | 2022 | arxiv | 10.1007/978-3-031-11748-0_3 | federated-learning, privacy-preserving, survey | [PDF](papers/pdfs/federated-and-transfer-learning-a-survey-on_arxiv_2207.02337v1.pdf) |
+| A Hybrid Deep Learning Anomaly Detection Framework for Intrusion Detection | ['Rahul Kale', 'Zhi Lu', 'Kar Wai Fok', 'Vrizlynn L. L. Thing'] | 2022 | arxiv | 10.1109/BigDataSecurityHPSCIDS54978.2022.00034 | anomaly-detection, deep-learning, methodology | [PDF](papers/pdfs/a-hybrid-deep-learning-anomaly-detection_arxiv_2212.00966v1.pdf) |
+| Intrusion Detection in Internet of Things using Convolutional Neural Networks | ['Martin Kodys', 'Zhi Lu', 'Kar Wai Fok', 'Vrizlynn L. L. Thing'] | 2022 | arxiv | 10.1109/PST52912.2021.9647828 | anomaly-detection, deep-learning, edge-computing | [PDF](papers/pdfs/intrusion-detection-in-internet-of-things-using_arxiv_2211.10062v1.pdf) |
+| A deep learning approach to predict the number of k-barriers for intrusion detection over a circular region using wireless sensor networks | ['Abhilash Singh', 'J. Amutha', 'Jaiprakash Nagar', 'Sandeep Sharma'] | 2022 | arxiv | 10.1016/j.eswa.2022.118588 | anomaly-detection, deep-learning, methodology | [PDF](papers/pdfs/a-deep-learning-approach-to-predict-the-number-of_arxiv_2208.11887v1.pdf) |
+| Rethinking Graph Neural Networks for Anomaly Detection | ['Jianheng Tang', 'Jiajin Li', 'Ziqi Gao', 'Jia Li'] | 2022 | arxiv | [http://arxiv.org/abs/2205.15508v1](http://arxiv.org/abs/2205.15508v1) | anomaly-detection, deep-learning | [PDF](papers/pdfs/rethinking-graph-neural-networks-for-anomaly_arxiv_2205.15508v1.pdf) |
+| Mul-GAD: a semi-supervised graph anomaly detection framework via aggregating multi-view information | ['Zhiyuan Liu', 'Chunjie Cao', 'Jingzhang Sun'] | 2022 | arxiv | [http://arxiv.org/abs/2212.05478v1](http://arxiv.org/abs/2212.05478v1) | anomaly-detection, deep-learning, methodology | [PDF](papers/pdfs/mul-gad-a-semi-supervised-graph-anomaly-detection_arxiv_2212.05478v1.pdf) |
+| Trustworthy Anomaly Detection: A Survey | ['Shuhan Yuan', 'Xintao Wu'] | 2022 | arxiv | [http://arxiv.org/abs/2202.07787v1](http://arxiv.org/abs/2202.07787v1) | anomaly-detection, survey | [PDF](papers/pdfs/trustworthy-anomaly-detection-a-survey_arxiv_2202.07787v1.pdf) |
+| Learning Curves for Decision Making in Supervised Machine Learning: A Survey | ['Felix Mohr', 'Jan N. van Rijn'] | 2022 | arxiv | 10.1007/s10994-024-06619-7 | methodology, survey | [PDF](papers/pdfs/learning-curves-for-decision-making-in-supervised_arxiv_2201.12150v2.pdf) |
+| Federated Quantum Natural Gradient Descent for Quantum Federated Learning | ['Jun Qi'] | 2022 | arxiv | [http://arxiv.org/abs/2209.00564v1](http://arxiv.org/abs/2209.00564v1) | distributed-systems, federated-learning, methodology | [PDF](papers/pdfs/federated-quantum-natural-gradient-descent-for_arxiv_2209.00564v1.pdf) |
+| The Modern Mathematics of Deep Learning | ['Julius Berner', 'Philipp Grohs', 'Gitta Kutyniok', 'Philipp Petersen'] | 2021 | arxiv | 10.1017/9781009025096.002 | deep-learning, methodology | [PDF](papers/pdfs/the-modern-mathematics-of-deep-learning_arxiv_2105.04026v2.pdf) |
+| VAFL: a Method of Vertical Asynchronous Federated Learning | ['Tianyi Chen', 'Xiao Jin', 'Yuejiao Sun', 'Wotao Yin'] | 2020 | arxiv | [http://arxiv.org/abs/2007.06081v1](http://arxiv.org/abs/2007.06081v1) | federated-learning, methodology | [PDF](papers/pdfs/vafl-a-method-of-vertical-asynchronous-federated_arxiv_2007.06081v1.pdf) |
+| Challenges in Vessel Behavior and Anomaly Detection: From Classical Machine Learning to Deep Learning | ['Lucas May Petry', 'Amilcar Soares', 'Vania Bogorny', 'Bruno Brandoli', 'Stan Matwin'] | 2020 | arxiv | [http://arxiv.org/abs/2004.03722v1](http://arxiv.org/abs/2004.03722v1) | anomaly-detection, deep-learning | [PDF](papers/pdfs/challenges-in-vessel-behavior-and-anomaly_arxiv_2004.03722v1.pdf) |
+| Coded Computing for Federated Learning at the Edge | ['Saurav Prakash', 'Sagar Dhakal', 'Mustafa Akdeniz', 'A. Salman Avestimehr', 'Nageen Himayat'] | 2020 | arxiv | [http://arxiv.org/abs/2007.03273v3](http://arxiv.org/abs/2007.03273v3) | edge-computing, federated-learning | [PDF](papers/pdfs/coded-computing-for-federated-learning-at-the-edge_arxiv_2007.03273v3.pdf) |
+| DOME: Recommendations for supervised machine learning validation in biology | ['Ian Walsh', 'Dmytro Fishman', 'Dario Garcia-Gasulla', 'Tiina Titma', 'Gianluca Pollastri', 'The ELIXIR Machine Learning focus group', 'Jen Harrow', 'Fotis E. Psomopoulos', 'Silvio C. E. Tosatto'] | 2020 | arxiv | [http://arxiv.org/abs/2006.16189v4](http://arxiv.org/abs/2006.16189v4) | methodology | [PDF](papers/pdfs/dome-recommendations-for-supervised-machine_arxiv_2006.16189v4.pdf) |
+| Privacy-Preserving XGBoost Inference | ['Xianrui Meng', 'Joan Feigenbaum'] | 2020 | arxiv | [http://arxiv.org/abs/2011.04789v4](http://arxiv.org/abs/2011.04789v4) | privacy-preserving | [PDF](papers/pdfs/privacy-preserving-xgboost-inference_arxiv_2011.04789v4.pdf) |
+| Privacy-Preserving Object Detection & Localization Using Distributed Machine Learning: A Case Study of Infant Eyeblink Conditioning | ['Stefan Zwaard', 'Henk-Jan Boele', 'Hani Alers', 'Christos Strydis', 'Casey Lew-Williams', 'Zaid Al-Ars'] | 2020 | arxiv | [http://arxiv.org/abs/2010.07259v1](http://arxiv.org/abs/2010.07259v1) | distributed-systems, methodology, privacy-preserving | [PDF](papers/pdfs/privacy-preserving-object-detection-localization_arxiv_2010.07259v1.pdf) |
+| Heterogeneous Federated Learning | ['Fuxun Yu', 'Weishan Zhang', 'Zhuwei Qin', 'Zirui Xu', 'Di Wang', 'Chenchen Liu', 'Zhi Tian', 'Xiang Chen'] | 2020 | arxiv | [http://arxiv.org/abs/2008.06767v2](http://arxiv.org/abs/2008.06767v2) | federated-learning, methodology |  |
+| Central Server Free Federated Learning over Single-sided Trust Social Networks | ['Chaoyang He', 'Conghui Tan', 'Hanlin Tang', 'Shuang Qiu', 'Ji Liu'] | 2019 | arxiv | [http://arxiv.org/abs/1910.04956v2](http://arxiv.org/abs/1910.04956v2) | federated-learning, privacy-preserving | [PDF](papers/pdfs/central-server-free-federated-learning-over_arxiv_1910.04956v2.pdf) |
+| Abnormal Client Behavior Detection in Federated Learning | ['Suyi Li', 'Yong Cheng', 'Yang Liu', 'Wei Wang', 'Tianjian Chen'] | 2019 | arxiv | [http://arxiv.org/abs/1910.09933v2](http://arxiv.org/abs/1910.09933v2) | anomaly-detection, federated-learning, security | [PDF](papers/pdfs/abnormal-client-behavior-detection-in-federated_arxiv_1910.09933v2.pdf) |
+| Decentralized Federated Learning: A Segmented Gossip Approach | ['Chenghao Hu', 'Jingyan Jiang', 'Zhi Wang'] | 2019 | arxiv | [http://arxiv.org/abs/1908.07782v1](http://arxiv.org/abs/1908.07782v1) | distributed-systems, federated-learning, methodology | [PDF](papers/pdfs/decentralized-federated-learning-a-segmented_arxiv_1908.07782v1.pdf) |
+| Cyber Situation Awareness with Active Learning for Intrusion Detection | ['Steven McElwee', 'James Cannady'] | 2019 | arxiv | 10.1109/SoutheastCon42311.2019.9020599 | anomaly-detection, methodology, security | [PDF](papers/pdfs/cyber-situation-awareness-with-active-learning_arxiv_1912.12673v1.pdf) |
+| A Benchmark Study of Machine Learning Models for Online Fake News Detection | ['Junaed Younus Khan', 'Md. Tawkat Islam Khondaker', 'Sadia Afroz', 'Gias Uddin', 'Anindya Iqbal'] | 2019 | arxiv | 10.1016/j.mlwa.2021.100032 | methodology | [PDF](papers/pdfs/a-benchmark-study-of-machine-learning-models-for_arxiv_1905.04749v2.pdf) |
+| Overcoming Forgetting in Federated Learning on Non-IID Data | ['Neta Shoham', 'Tomer Avidor', 'Aviv Keren', 'Nadav Israel', 'Daniel Benditkis', 'Liron Mor-Yosef', 'Itai Zeitak'] | 2019 | arxiv | [http://arxiv.org/abs/1910.07796v1](http://arxiv.org/abs/1910.07796v1) | federated-learning | [PDF](papers/pdfs/overcoming-forgetting-in-federated-learning-on_arxiv_1910.07796v1.pdf) |
+| Maximally Divergent Intervals for Anomaly Detection | ['Erik Rodner', 'Björn Barz', 'Yanira Guanche', 'Milan Flach', 'Miguel Mahecha', 'Paul Bodesheim', 'Markus Reichstein', 'Joachim Denzler'] | 2016 | arxiv | 10.17871/BACI_ICML2016_Rodner | anomaly-detection, methodology | [PDF](papers/pdfs/maximally-divergent-intervals-for-anomaly_arxiv_1610.06761v1.pdf) |
+| Graph-based Anomaly Detection and Description: A Survey | ['Leman Akoglu', 'Hanghang Tong', 'Danai Koutra'] | 2014 | arxiv | [http://arxiv.org/abs/1404.4679v2](http://arxiv.org/abs/1404.4679v2) | anomaly-detection, survey | [PDF](papers/pdfs/graph-based-anomaly-detection-and-description-a_arxiv_1404.4679v2.pdf) |
+| A Semi-distributed Reputation Based Intrusion Detection System for Mobile Adhoc Networks | ['Animesh Kr Trivedi', 'Rajan Arora', 'Rishi Kapoor', 'Sudip Sanyal', 'Sugata Sanyal'] | 2010 | arxiv | [http://arxiv.org/abs/1006.1956v2](http://arxiv.org/abs/1006.1956v2) | anomaly-detection, distributed-systems, security | [PDF](papers/pdfs/a-semi-distributed-reputation-based-intrusion_arxiv_1006.1956v2.pdf) |
 
-## Papers by Year
+## Summaries
 
-### 2027
+### Federated Attention Autoencoders with a Stochastic Aggregation Scheme for Anomaly Detection
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| SADFL: Spectral Anomaly Detection with adversarial lear | Jin-Hao Ruan | DBLP | anomaly-detection, federated-learning | Research paper: SADFL: Spectral Anomaly Detecti... |
-### 2026
+Aggregation Scheme for Anomaly Detection
+Mihailo Ili ´c∗, Milo ˇs Savi ´c∗, Vladimir Kurbalija∗, Mirjana Ivanovi ´c∗, Giancarlo Fortino†, Du ˇsan Jakoveti´c∗
+Department of Mathematics and Informatics, Faculty of Sciences, University of Novi Sad, Serbia
+milic,svc,kurba,mira,dusan.jakovetic}@dmi.uns.ac.rs
+Department of Informatics, Modeling, Electronics, and Systems, University of 
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Federated Attention Autoencoders with a Stochastic Aggr | Mihailo Ilić | ARXIV | anomaly-detection, deep-learning | Outlier detection in decentralized data environ... |
-| QGuardian: A Federated Learning Framework for Quantum-R | Ahaan Thota | CROSSREF | anomaly-detection, distributed-systems | <jats:p>Current cybersecurity systems face two ... |
-| PFL-Log: A Personalized Federated Learning Approach for | Bingqing Luo | CROSSREF | anomaly-detection, distributed-systems | <jats:p>With the widespread adoption of distrib... |
-| EdgeFaaS: A Function-based Framework for Edge Computing | Neha Vadnere | ARXIV | distributed-systems, edge-computing | Edge computing brings unique challenges as the ... |
-| Federated Learning with Edge Computing for Real‐Time De | A. Charles Mahimainathan | CROSSREF | edge-computing, federated-learning | Research paper: Federated Learning with Edge Co... |
-| Federated learning-based intelligent cache management f | Sohail Jabbar | DBLP | edge-computing, federated-learning | Research paper: Federated learning-based intell... |
-| Hierarchical Mean-Field Theory-based Off-Policy GRPO fo | Bing Ai | DBLP | edge-computing, federated-learning | Research paper: Hierarchical Mean-Field Theory-... |
-| Multiobjective Optimization for Efficient Federated Lea | Juncui Niu | DBLP | edge-computing, federated-learning | Research paper: Multiobjective Optimization for... |
-| Dueling Deep Q-Learning for Intrusion Detection | Logan Luna | ARXIV | anomaly-detection, methodology | Intrusion detection systems (IDS) and automated... |
-| Enhancing Network Intrusion Detection Systems Using Dee | Okoli C. Johnson | CROSSREF | anomaly-detection, deep-learning | <jats:p>Deep learning has revolutionised patter... |
-| AI-Driven Intrusion Detection Systems (IDS): Enhancing  | William Kawah | CROSSREF | anomaly-detection, deep-learning | <jats:p>Intrusion Detection Systems (IDS) are e... |
-| SRFed: Mitigating Poisoning Attacks in Privacy-Preservi | Yiwen Lu | ARXIV | federated-learning, privacy-preserving | Federated Learning (FL) enables collaborative m... |
-| Privacy Preserving Machine Learning Workflow: from Anon | Judith Sáinz-Pardo Díaz | DBLP | federated-learning, privacy-preserving | Research paper: Privacy Preserving Machine Lear... |
-| Reallocation of privacy harm by privacy-preserving mach | Arijit Goswami | DBLP | privacy-preserving | Research paper: Reallocation of privacy harm by... |
-| Coded Computing Meets Differential Privacy: Privacy-Pre | Yilei Xue | DBLP | distributed-systems, privacy-preserving | Research paper: Coded Computing Meets Different... |
-| MerLin: A Discovery Engine for Photonic and Hybrid Quan | Cassandre Notton | ARXIV | methodology | Identifying where quantum models may offer prac... |
-| A Distributed Virtual Machine for Mesh-Grid Sensor Netw | Stefan Bosse | DBLP | distributed-systems | Research paper: A Distributed Virtual Machine f... |
-| Anomaly detection method for satellite networks based o | Hui Chen | DBLP | anomaly-detection, federated-learning | Research paper: Anomaly detection method for sa... |
-| Edge- Federated Graph Anomaly Detection With Self-Super | Nuha A. Hamad | DBLP | anomaly-detection, edge-computing | Research paper: Edge- Federated Graph Anomaly D... |
-| Federated learning enhanced spatial and temporal attent | Yue He | DBLP | anomaly-detection, federated-learning | Research paper: Federated learning enhanced spa... |
-| Modality-Agnostic Hybrid Federated Learning via Knowled | Chen Wang | DBLP | edge-computing, federated-learning | Research paper: Modality-Agnostic Hybrid Federa... |
-| FedRSL: Representation Subspace Learning in Model-Heter | Liping Yi | DBLP | federated-learning | Research paper: FedRSL: Representation Subspace... |
-| Personalized Federated Learning for Egocentric Video Ga | Yuhu Feng | DBLP | federated-learning | Research paper: Personalized Federated Learning... |
-| Bias-Corrected Federated Learning for Video Recommendat | Chaochen Zhou | DBLP | federated-learning | Research paper: Bias-Corrected Federated Learni... |
-| Privacy-preserving video anomaly detection via federate | Shuo Li | DBLP | anomaly-detection, federated-learning | Research paper: Privacy-preserving video anomal... |
-| Tiny-transformer based multimodal biometric authenticat | Khushboo Jha | DBLP | edge-computing, federated-learning | Research paper: Tiny-transformer based multimod... |
-| FedDAAM: Federated Domain Adversarial Learning With Att | Lang He | DBLP | federated-learning, privacy-preserving | Research paper: FedDAAM: Federated Domain Adver... |
-| Robust Federated Learning Under Heterogeneity via Rank- | Zhi-Yong Wang | DBLP | federated-learning | Research paper: Robust Federated Learning Under... |
-| AnonymTracker: Anonymously Traceable Copyright Protecti | Wenyuan Yang | DBLP | federated-learning | Research paper: AnonymTracker: Anonymously Trac... |
-### 2025
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Federated Learning for Privacy-Preserving Anomaly Detec | Muhammad A | CROSSREF | anomaly-detection, distributed-systems | Research paper: Federated Learning for Privacy-... |
-| Federated Learning for Secure and Decentralized Anomaly | P Krishnamoorthy | CROSSREF | anomaly-detection, distributed-systems | <jats:p>Federated Learning (FL) has emerged as ... |
-| Advancing Network Anomaly Detection Using Deep Learning | Hanen Dhrir | CROSSREF | anomaly-detection, deep-learning | Research paper: Advancing Network Anomaly Detec... |
-| FedDCL: Federated Diffusion-enhanced Contrastive Learni | weihu song | CROSSREF | anomaly-detection, federated-learning | Research paper: FedDCL: Federated Diffusion-enh... |
-| Federated Learning Based Anomaly Network Intrusion Dete | N/A | CROSSREF | anomaly-detection, federated-learning | Research paper: Federated Learning Based Anomal... |
-| Incentivizing Multi-Tenant Split Federated Learning for | Songyuan Li | ARXIV | edge-computing, federated-learning | Foundation models (FMs) such as GPT-4 exhibit e... |
-| Intelligent Offloading in Vehicular Edge Computing: A C | Ashab Uddin | ARXIV | edge-computing, methodology | The increasing complexity of Intelligent Transp... |
-| AFedSLL-LDL: a framework based-on federated self-superv | Mahdi Bazargani | DBLP | deep-learning, edge-computing | Research paper: AFedSLL-LDL: a framework based-... |
-| A GRL-aided federated graph reinforcement learning appr | Abhinav Khanna | DBLP | edge-computing, federated-learning | Research paper: A GRL-aided federated graph rei... |
-| Context-Aware Proactive Edge Caching for Vehicular Edge | Zhuofan Liao | DBLP | edge-computing, federated-learning | Research paper: Context-Aware Proactive Edge Ca... |
-| Distributed Deep Reinforcement Learning-Based Gradient  | Cui Zhang | DBLP | distributed-systems, edge-computing | Research paper: Distributed Deep Reinforcement ... |
-| CST-AFNet: A dual attention-based deep learning framewo | Waqas Ishtiaq | ARXIV | anomaly-detection, deep-learning | The rapid expansion of the Internet of Things (... |
-| Deep Learning for Intrusion Detection | N/A | CROSSREF | anomaly-detection, deep-learning | Research paper: Deep Learning for Intrusion Det... |
-| Intrusion Detection Through Deep Learning: Emerging Tre | Achyutananda Mishra | CROSSREF | anomaly-detection, deep-learning | Research paper: Intrusion Detection Through Dee... |
-| Deep Learning‐Based Intrusion Detection in Wireless Net | Shadab Alam | CROSSREF | anomaly-detection, deep-learning | Research paper: Deep Learning‐Based Intrusion D... |
-| Deep Learning‐Based Intrusion Detection in Wireless Net | Rahila Rahim | CROSSREF | anomaly-detection, deep-learning | Research paper: Deep Learning‐Based Intrusion D... |
-| Intrusion Detection in the Age of Deep Learning: An Int | Faheem Syeed Masoodi | CROSSREF | anomaly-detection, deep-learning | Research paper: Intrusion Detection in the Age ... |
-| Machine Learning for Intrusion Detection | M.K. Divya | CROSSREF | anomaly-detection | Research paper: Machine Learning for Intrusion ... |
-| Dataset for Evaluating Deep Learning‐Based Intrusion De | Wasia Ashraf | CROSSREF | anomaly-detection, deep-learning | Research paper: Dataset for Evaluating Deep Lea... |
-| Deep Q-learning intrusion detection system (DQ-IDS): A  | Md. Alamgir Hossain | DBLP | anomaly-detection, methodology | Research paper: Deep Q-learning intrusion detec... |
-| An Intelligent Intrusion Detection System in IoV Using  | Deepthi Reddy Dasari | DBLP | anomaly-detection, deep-learning | Research paper: An Intelligent Intrusion Detect... |
-| An Innovative Secure and Privacy-Preserving Federated L | Soumya Ranjan Jeyakumar | DBLP | anomaly-detection, deep-learning | Research paper: An Innovative Secure and Privac... |
-| Utilizing Deep Learning, Ensemble Learning, and Transfe | Yahya Alhaj Maz | DBLP | anomaly-detection, deep-learning | Research paper: Utilizing Deep Learning, Ensemb... |
-| Cyber Intrusion Detection in Protective Relays Using De | Saeed Jafari | DBLP | anomaly-detection, deep-learning | Research paper: Cyber Intrusion Detection in Pr... |
-| WSCIF: A Weakly-Supervised Color Intelligence Framework | Wei Meng | ARXIV | anomaly-detection, deep-learning | The deployment of traditional deep learning mod... |
-| Unlocking Vision-Language Models for Video Anomaly Dete | Shu Zou | ARXIV | anomaly-detection, edge-computing | Prompting has emerged as a practical way to ada... |
-| Anomaly Detection in Retail Surveillance Footage Using  | James Pearson | CROSSREF | anomaly-detection, deep-learning | Research paper: Anomaly Detection in Retail Sur... |
-| Filtering Before Detection: Objects of Interest Enhance | Peng He | CROSSREF | anomaly-detection | Research paper: Filtering Before Detection: Obj... |
-| Development of a Real-Time Anomaly Detection System in  | Harry Wilson | CROSSREF | anomaly-detection, deep-learning | Research paper: Development of a Real-Time Anom... |
-| Empowering Manufacturers with Privacy-Preserving AI Too | Xiaoyu Ji 0004 | DBLP | privacy-preserving | Research paper: Empowering Manufacturers with P... |
-| Federated Learning Platforms for Dynamic and Value-Driv | Christoph Düsing | DBLP | federated-learning, privacy-preserving | Research paper: Federated Learning Platforms fo... |
-| Robust Representation Learning for Privacy-Preserving M | Sofiane Ouaari | DBLP | deep-learning, methodology | Research paper: Robust Representation Learning ... |
-| Landscape of machine learning evolution: privacy-preser | Giang Thu Nguyen | DBLP | federated-learning, methodology | Research paper: Landscape of machine learning e... |
-| Fourier Learning Machines: Nonharmonic Fourier-Based Ne | Mominul Rubel | ARXIV | deep-learning | We introduce the Fourier Learning Machine (FLM)... |
-| Advancing Network Anomaly Detection Using Deep Learning | Hanen Dhrir | DBLP | anomaly-detection, deep-learning | Research paper: Advancing Network Anomaly Detec... |
-| DUAL-VAD: Dual Benchmarks and Anomaly-Focused Sampling  | Seoik Jung | ARXIV | anomaly-detection, video-anomaly-detection | Video Anomaly Detection (VAD) is critical for s... |
-| SmartHome-Bench: A Comprehensive Benchmark for Video An | Xinyi Zhao | ARXIV | anomaly-detection, video-anomaly-detection | Video anomaly detection (VAD) is essential for ... |
-| Tensor deep-anomaly: robust tensor classifier for video | Alaa El Ichi | DBLP | anomaly-detection, video-anomaly-detection | Research paper: Tensor deep-anomaly: robust ten... |
-| A hybrid heuristic model for video surveillance-based o | Dhivya Praba Ramasamy | DBLP | anomaly-detection, deep-learning | Research paper: A hybrid heuristic model for vi... |
-| FED-AT-VIDEO Nets - A Federated Capsule - Self Gated Le | Vijay Anand Kandaswamy | DBLP | federated-learning | Research paper: FED-AT-VIDEO Nets - A Federated... |
-### 2024
+### EdgeFaaS: A Function-based Framework for Edge Computing
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Harnessing Federated Learning for Anomaly Detection in  | Emmen Farooq | CROSSREF | anomaly-detection, federated-learning | Research paper: Harnessing Federated Learning f... |
-| Distributed Deep Reinforcement Learning Based Gradient  | Cui Zhang | ARXIV | distributed-systems, edge-computing | Federated Learning (FL) can protect the privacy... |
-| Federated Learning for IoT/Edge/Fog Computing Systems | Balqees Talal Hasan | CROSSREF | edge-computing, federated-learning | Research paper: Federated Learning for IoT/Edge... |
-| Federated Learning in Edge Computing Environments: Oppo | Shaveta x | CROSSREF | edge-computing, federated-learning | Research paper: Federated Learning in Edge Comp... |
-| Optimizing Privacy and Processing: Navigating Federated | Haocheng Liu | CROSSREF | edge-computing, federated-learning | Research paper: Optimizing Privacy and Processi... |
-| Federated Learning-based Content Caching Strategy for E | V Nivethitha | CROSSREF | edge-computing, federated-learning | <title>Abstract</title>
-        <p>In the realm... |
-| Harnessing the Synergy: Federated Learning Meets Edge C | Elizabeth Ango Fomuso Ekellem | CROSSREF | edge-computing, federated-learning | <jats:p>In the era of rapid digital transformat... |
-| Enhancing network intrusion detection systems with comb | Estabraq Saleem Abduljabbar... | DBLP | anomaly-detection, deep-learning | Research paper: Enhancing network intrusion det... |
-| Anomaly Detection of Tabular Data Using LLMs | Aodong Li | ARXIV | anomaly-detection | Large language models (LLMs) have shown their p... |
-| SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection | Mathis Kruse | ARXIV | anomaly-detection, methodology | Detecting anomalies in images has become a well... |
-| Generative Adversarial Networks-Based Video Anomaly Det | Xiaochun Wang | CROSSREF | anomaly-detection, methodology | Research paper: Generative Adversarial Networks... |
-| Convolutional Neural Networks Based Video Anomaly Detec | Xiaochun Wang | CROSSREF | anomaly-detection, deep-learning | Research paper: Convolutional Neural Networks B... |
-| Anomaly graph: leveraging dynamic graph convolutional n | V. Rahul Chiranjeevi | DBLP | anomaly-detection, video-anomaly-detection | Research paper: Anomaly graph: leveraging dynam... |
-| Semi-supervised, Neural Network based approaches to fac | Sabir Saheel | DBLP | anomaly-detection, deep-learning | Research paper: Semi-supervised, Neural Network... |
-| Real-time anomaly detection for 'Remote' bus stop surve | Beihao Xi | DBLP | anomaly-detection, security | Research paper: Real-time anomaly detection for... |
-| Federated Learning: Privacy-Preserving Machine Learning | Bangar Raju Cherukuri | CROSSREF | federated-learning, privacy-preserving | Research paper: Federated Learning: Privacy-Pre... |
-| Privacy Preserving Machine Learning for Electronic Heal | Naif A. Ganadily | DBLP | federated-learning, privacy-preserving | Research paper: Privacy Preserving Machine Lear... |
-| Anomaly Detection of IoT Cyberattacks in Smart Cities U | Ishaani Priyadarshini | DBLP | anomaly-detection, edge-computing | Research paper: Anomaly Detection of IoT Cybera... |
-| Probability-Based Video Anomaly Detection Approaches | Xiaochun Wang | CROSSREF | anomaly-detection, methodology | Research paper: Probability-Based Video Anomaly... |
-| Regression-Based Video Anomaly Detection Approaches | Xiaochun Wang | CROSSREF | anomaly-detection, methodology | Research paper: Regression-Based Video Anomaly ... |
-| Reconstruction-Based Video Anomaly Detection Approaches | Xiaochun Wang | CROSSREF | anomaly-detection, methodology | Research paper: Reconstruction-Based Video Anom... |
-| CLIP: Assisted Video Anomaly Detection | Meng Dong | CROSSREF | anomaly-detection, video-anomaly-detection | Research paper: CLIP: Assisted Video Anomaly De... |
-| SVDD-Based Video Anomaly Detection Approaches | Xiaochun Wang | CROSSREF | anomaly-detection, methodology | Research paper: SVDD-Based Video Anomaly Detect... |
-| Sparse Representation-Based Video Anomaly Detection App | Xiaochun Wang | CROSSREF | anomaly-detection, methodology | Research paper: Sparse Representation-Based Vid... |
-| Markov Random Field-Based Video Anomaly Detection | Xiaochun Wang | CROSSREF | anomaly-detection, video-anomaly-detection | Research paper: Markov Random Field-Based Video... |
-| A comprehensive review of datasets for detection and lo | Rashmiranjan Nayak | DBLP | anomaly-detection, survey | Research paper: A comprehensive review of datas... |
-| Domain generalization for video anomaly detection consi | Zhiqiang Wang | DBLP | anomaly-detection, video-anomaly-detection | Research paper: Domain generalization for video... |
-| Toward Video Anomaly Retrieval From Video Anomaly Detec | Peng Wu 0015 | DBLP | anomaly-detection, video-anomaly-detection | Research paper: Toward Video Anomaly Retrieval ... |
-| Relabeling Abnormal Videos via Intra-Video Label Propag | Wenhao Zhou | DBLP | anomaly-detection, video-anomaly-detection | Research paper: Relabeling Abnormal Videos via ... |
-| Data Poisoning and Leakage Analysis in Federated Learni | Wenqi Wei | ARXIV | anomaly-detection, federated-learning | Data poisoning and leakage risks impede the mas... |
-| Federated learning for medical image analysis: A survey | Hao Guan | OPENALEX | federated-learning, survey | Research paper: Federated learning for medical ... |
-| Vertical Federated Learning: Concepts, Advances, and Ch | Yang Liu | OPENALEX | federated-learning, methodology | Vertical Federated Learning (VFL) is a federate... |
-### 2023
+Computing
+Neha Vadnere, Yu-Ting Wang, Yitao Chen, Sreehari Sadesh, Ming Zhao
+Arizona State University, Tempe, USA
+Abstract—Edge computing brings unique challenges as the
+resources on the edge are highly diverse in capabilities and
+capacities, and highly distributed across many users and the
+physical world. Existing distributed computing frameworks can-
+not adequately handle this level of heterog
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Learning Representation for Anomaly Detection of Vehicl | Ruochen Jiao | ARXIV | anomaly-detection, security | Predicting the future trajectories of surroundi... |
-| Autoencoder-based Anomaly Detection in Streaming Data w | Jin Li | ARXIV | anomaly-detection, deep-learning | In our digital universe nowadays, enormous amou... |
-| Evaluating Multi-Global Server Architecture for Federat | Asfia Kawnine | ARXIV | distributed-systems, edge-computing | Federated learning (FL) with a single global se... |
-| Federated Learning Hyper-Parameter Tuning for Edge Comp | Xueying Zhang | CROSSREF | edge-computing, federated-learning | <jats:p>Edge computing is widely recognized as ... |
-| Hybrid Learning: When Centralized Learning Meets Federa | Chenyuan Feng | DBLP | edge-computing, federated-learning | Research paper: Hybrid Learning: When Centraliz... |
-| Online Self-Supervised Deep Learning for Intrusion Dete | Mert Nakıp | ARXIV | anomaly-detection, deep-learning | This paper proposes a novel Self-Supervised Int... |
-| Learn to Accumulate Evidence from All Training Samples: | Deep Pandey | ARXIV | deep-learning | Evidential deep learning, built upon belief the... |
-| Low carbon footprint intrusion detection in IoT systems | Mohamed Sassi | DBLP | anomaly-detection, deep-learning | Research paper: Low carbon footprint intrusion ... |
-| Intrusion detection with deep learning for in-vehicle n | Natasha Al-Khatib | DBLP | anomaly-detection, deep-learning | Research paper: Intrusion detection with deep l... |
-| Transfer Learning Method for Handling The Intrusion Det | Talluri Upender | DBLP | anomaly-detection, deep-learning | Research paper: Transfer Learning Method for Ha... |
-| Detection of anomaly in surveillance videos using quant | Javaria Amin | OPENALEX | anomaly-detection, deep-learning | Research paper: Detection of anomaly in surveil... |
-| Detection of anomaly in surveillance videos using quant | Javaria Amin | DBLP | anomaly-detection, deep-learning | Research paper: Detection of anomaly in surveil... |
-| Privacy-preserving machine learning for healthcare: ope | Alejandro Guerra-Manzanares | ARXIV | privacy-preserving, survey | Machine Learning (ML) has recently shown tremen... |
-| Changing Data Sources in the Age of Machine Learning fo | Cedric De Boom | ARXIV | - | Data science has become increasingly essential ... |
-| Approximate, Adapt, Anonymize (3A): a Framework for Pri | Tamas Madl | ARXIV | methodology, privacy-preserving | The availability of large amounts of informativ... |
-| Active learning for data streams: a survey | Davide Cacciarelli | ARXIV | survey | Online active learning is a paradigm in machine... |
-| Physics-Inspired Interpretability Of Machine Learning M | Maximilian P Niroomand | ARXIV | methodology | The ability to explain decisions made by machin... |
-| Distributed Anomaly Detection in Smart Grids: A Federat | J. Jithish | OPENALEX | anomaly-detection, distributed-systems | The smart grid integrates Information and Commu... |
-| Fed-ANIDS: Federated learning for anomaly-based network | Meryem Janati Idrissi | OPENALEX | anomaly-detection, federated-learning | Research paper: Fed-ANIDS: Federated learning f... |
-| Security for Distributed Machine Learning | Laurent Gomez | CROSSREF | distributed-systems | Research paper: Security for Distributed Machin... |
-| The Changing Landscape of Machine Learning: A Comparati | Dishita Naik | DBLP | distributed-systems, federated-learning | Research paper: The Changing Landscape of Machi... |
-| Machine Learning Feature Based Job Scheduling for Distr | Haoyu Wang 0003 | DBLP | distributed-systems | Research paper: Machine Learning Feature Based ... |
-| RLPTO: A Reinforcement Learning-Based Performance-Time  | Xiaofeng Lu | DBLP | distributed-systems | Research paper: RLPTO: A Reinforcement Learning... |
-| Proceedings of the 4th International Workshop on Distri | Stefanos Laskaridis | DBLP | distributed-systems | Research paper: Proceedings of the 4th Internat... |
-| A Survey From Distributed Machine Learning to Distribut | Mohammad Dehghani | DBLP | deep-learning, distributed-systems | Research paper: A Survey From Distributed Machi... |
-| The Landscape of Modern Machine Learning: A Review of M | Omer Subasi | DBLP | distributed-systems, federated-learning | Research paper: The Landscape of Modern Machine... |
-| Representation Learning in Anomaly Detection: Successes | Yedid Hoshen | ARXIV | anomaly-detection | In this perspective paper, we argue that the do... |
-| Détection d'anomalies en temps réel dans un flux vidéo. | Fabien Poirier | DBLP | anomaly-detection | Research paper: Détection d'anomalies en temps ... |
-| Enhancing Video Anomaly Detection by Leveraging Advance | Wenhao Shao | DBLP | anomaly-detection, deep-learning | Research paper: Enhancing Video Anomaly Detecti... |
-| Towards Video Anomaly Retrieval from Video Anomaly Dete | Peng Wu 0015 | DBLP | anomaly-detection, video-anomaly-detection | Research paper: Towards Video Anomaly Retrieval... |
-| Towards Interpretable Federated Learning | Anran Li | ARXIV | federated-learning, privacy-preserving | Federated learning (FL) enables multiple data o... |
-### 2022
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Federated and Transfer Learning: A Survey on Adversarie | Ehsan Hallaji | ARXIV | federated-learning, privacy-preserving | The advent of federated learning has facilitate... |
-| A Hybrid Deep Learning Anomaly Detection Framework for  | Rahul Kale | ARXIV | anomaly-detection, deep-learning | Cyber intrusion attacks that compromise the use... |
-| Radio Fingerprinting for Anomaly Detection Using Federa | Subir Halder | CROSSREF | anomaly-detection, edge-computing | <jats:p>Long Range (LoRa) communications are ga... |
-| Application of Federated Learning in Telecommunications | Utpal Mangla | CROSSREF | edge-computing, federated-learning | Research paper: Application of Federated Learni... |
-| Federated Learning in Edge Computing: A Systematic Surv | Haftay Gebreslasie Abreha | OPENALEX | deep-learning, edge-computing | Edge Computing (EC) is a new architecture that ... |
-| Application of Federated Learning in Telecommunications | Utpal Mangla | DBLP | edge-computing, federated-learning | Research paper: Application of Federated Learni... |
-| Intrusion Detection in Internet of Things using Convolu | Martin Kodys | ARXIV | anomaly-detection, deep-learning | Internet of Things (IoT) has become a popular p... |
-| A deep learning approach to predict the number of k-bar | Abhilash Singh | ARXIV | anomaly-detection, deep-learning | Wireless Sensor Networks (WSNs) is a promising ... |
-| Rethinking Graph Neural Networks for Anomaly Detection | Jianheng Tang | ARXIV | anomaly-detection, deep-learning | Graph Neural Networks (GNNs) are widely applied... |
-| Mul-GAD: a semi-supervised graph anomaly detection fram | Zhiyuan Liu | ARXIV | anomaly-detection, deep-learning | Anomaly detection is defined as discovering pat... |
-| Trustworthy Anomaly Detection: A Survey | Shuhan Yuan | ARXIV | anomaly-detection, survey | Anomaly detection has a wide range of real-worl... |
-| Influence-Aware Attention Networks for Anomaly Detectio | Sijia Zhang | OPENALEX | anomaly-detection, deep-learning | Detecting anomalies in videos is a fundamental ... |
-| Influence-Aware Attention Networks for Anomaly Detectio | Sijia Zhang | DBLP | anomaly-detection, video-anomaly-detection | Research paper: Influence-Aware Attention Netwo... |
-| Anomaly Detection in Surveillance Videos Using Regressi | Mehmet Yagan | DBLP | anomaly-detection, deep-learning | Research paper: Anomaly Detection in Surveillan... |
-| Learning Curves for Decision Making in Supervised Machi | Felix Mohr | ARXIV | methodology, survey | Learning curves are a concept from social scien... |
-| Privacy-Preserving Machine Learning With Fully Homomorp | Joon-Woo Lee | OPENALEX | deep-learning, methodology | Fully homomorphic encryption (FHE) is a prospec... |
-| Distributed Optimization in Machine Learning | Gauri Joshi | CROSSREF | distributed-systems | Research paper: Distributed Optimization in Mac... |
-| Detection of Poisoning Attacks with Anomaly Detection i | Ali Raza 0005 | DBLP | anomaly-detection, federated-learning | Research paper: Detection of Poisoning Attacks ... |
-| Anomaly Traffic Detection with Federated Learning towar | Takayuki Nishio | DBLP | anomaly-detection, edge-computing | Research paper: Anomaly Traffic Detection with ... |
-| Generative Cooperative Learning for Unsupervised Video  | Muhammad Zaigham Zaheer | OPENALEX | anomaly-detection, methodology | Video anomaly detection is well investigated in... |
-| Anomaly Detection of Metro Station Tracks Based on Sequ | Zhongxing Zheng | DBLP | anomaly-detection, methodology | Research paper: Anomaly Detection of Metro Stat... |
-| Federated Quantum Natural Gradient Descent for Quantum  | Jun Qi | ARXIV | distributed-systems, federated-learning | The heart of Quantum Federated Learning (QFL) i... |
-| Towards Personalized Federated Learning | Alysa Ziying Tan | OPENALEX | federated-learning, privacy-preserving | In parallel with the rapid adoption of artifici... |
-| A survey on federated learning: challenges and applicat | Jie Wen | OPENALEX | federated-learning, survey | Research paper: A survey on federated learning:... |
-| FedProto: Federated Prototype Learning across Heterogen | Yue Tan | OPENALEX | edge-computing, federated-learning | Heterogeneity across clients in federated learn... |
-| Differential Privacy for Deep and Federated Learning: A | Ahmed El Ouadrhiri | OPENALEX | deep-learning, federated-learning | Users’ privacy is vulnerable at all stages of t... |
-| Federated Learning for intrusion detection system: Conc | Shaashwat Agrawal | OPENALEX | anomaly-detection, federated-learning | Research paper: Federated Learning for intrusio... |
-### 2021
+### Dueling Deep Q-Learning for Intrusion Detection
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Federated Disentangled Representation Learning for Unsu | Cosmin Bercea | CROSSREF | anomaly-detection, deep-learning | <title>Abstract</title>
-        <p>Recent advan... |
-| A survey of federated learning for edge computing: Rese | Qi Xia | OPENALEX | distributed-systems, edge-computing | Federated Learning is a machine learning scheme... |
-| Multi-Task Federated Learning for Personalised Deep Neu | Jed Mills | OPENALEX | deep-learning, distributed-systems | Federated Learning (FL) is an emerging approach... |
-| The Modern Mathematics of Deep Learning | Julius Berner | ARXIV | deep-learning, methodology | We describe the new field of mathematical analy... |
-| Anomaly Detection in Atm-Grade Software Defined Network | Philipp Lellek | CROSSREF | anomaly-detection | Research paper: Anomaly Detection in Atm-Grade ... |
-| Artificial Intelligence of Things-assisted two-stream n | Waseem Ullah | OPENALEX | anomaly-detection, deep-learning | Research paper: Artificial Intelligence of Thin... |
-| CNN features with bi-directional LSTM for real-time ano | Waseem Ullah | DBLP | anomaly-detection, deep-learning | Research paper: CNN features with bi-directiona... |
-| Federated-Learning-Based Anomaly Detection for IoT Secu | Viraaji Mothukuri | OPENALEX | anomaly-detection, edge-computing | The Internet of Things (IoT) is made up of bill... |
-| Security and Privacy-Enhanced Federated Learning for An | Lei Cui | OPENALEX | anomaly-detection, distributed-systems | Internet of Things (IoT) anomaly detection is s... |
-| Toward Accurate Anomaly Detection in Industrial Interne | Xiaoding Wang | OPENALEX | anomaly-detection, edge-computing | The Industrial Internet of Things (IIoT) is an ... |
-| Detecting cyberattacks using anomaly detection in indus | Trương Thu Hương | OPENALEX | anomaly-detection, federated-learning | Research paper: Detecting cyberattacks using an... |
-| Privacy Preserving Machine Learning with Homomorphic En | Haokun Fang | OPENALEX | federated-learning, methodology | Privacy protection has been an important concer... |
-| CryptGPU: Fast Privacy-Preserving Machine Learning on t | Sijun Tan | OPENALEX | deep-learning, privacy-preserving | We introduce CryptGPU, a system for privacy-pre... |
-| Federated Learning and Privacy: Building privacy-preser | Kallista A. Bonawitz | DBLP | distributed-systems, federated-learning | Research paper: Federated Learning and Privacy:... |
-| Distributed Machine Learning Systems | Jiawei Jiang | CROSSREF | distributed-systems | Research paper: Distributed Machine Learning Sy... |
-| Basics of Distributed Machine Learning | Jiawei Jiang | CROSSREF | distributed-systems | Research paper: Basics of Distributed Machine L... |
-| Image reconstruction attacks on distributed machine lea | Hadjer Benkraouda | CROSSREF | distributed-systems, security | Research paper: Image reconstruction attacks on... |
-| Machine Learning for the distributed and dynamic manage | Tatiana Babicheva | DBLP | distributed-systems | Research paper: Machine Learning for the distri... |
-| DistributedML '21: Proceedings of the 2nd ACM Internati | N/A | DBLP | distributed-systems | Research paper: DistributedML '21: Proceedings ... |
-| Federated Learning for Internet of Things: A Federated  | Tuo Zhang | DBLP | anomaly-detection, federated-learning | Research paper: Federated Learning for Internet... |
-| Weakly-supervised Video Anomaly Detection with Robust T | Yu Tian | OPENALEX | anomaly-detection, methodology | Anomaly detection with weakly supervised video-... |
-| MIST: Multiple Instance Self-Training Framework for Vid | Jia-Chang Feng | OPENALEX | anomaly-detection, methodology | Weakly supervised video anomaly detection (WS-V... |
-| Video anomaly detection with spatio-temporal dissociati | Yunpeng Chang | OPENALEX | anomaly-detection, video-anomaly-detection | Research paper: Video anomaly detection with sp... |
-| Robust Unsupervised Video Anomaly Detection by Multipat | Xuanzhao Wang | OPENALEX | anomaly-detection, methodology | Video anomaly detection is commonly used in man... |
-### 2020
+Logan Luna
+Department of Electrical Engineering and Computer Science
+Embry-Riddle Aeronautical University
+Daytona Beach, USA
+Matthew P. Berkowitz
+Department of Electrical Engineering and Computer Science
+Embry-Riddle Aeronautical University
+Daytona Beach, USA
+berkowim@my.erau.edu
+Laxima Niure Kandel
+Department of Electrical Engineering and Computer Science
+Embry-Riddle Aeronautical University
+Dayt
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| VAFL: a Method of Vertical Asynchronous Federated Learn | Tianyi Chen | ARXIV | federated-learning, methodology | Horizontal Federated learning (FL) handles mult... |
-| Challenges in Vessel Behavior and Anomaly Detection: Fr | Lucas May Petry | ARXIV | anomaly-detection, deep-learning | The global expansion of maritime activities and... |
-| Coded Computing for Federated Learning at the Edge | Saurav Prakash | ARXIV | edge-computing, federated-learning | Federated Learning (FL) is an exciting new para... |
-| Federated Learning in Mobile Edge Networks: A Comprehen | Wei Yang Bryan Lim | OPENALEX | deep-learning, edge-computing | In recent years, mobile devices are equipped wi... |
-| Federated Learning in Vehicular Edge Computing: A Selec | Dongdong Ye | OPENALEX | deep-learning, distributed-systems | Federated learning is a newly emerged distribut... |
-| Advances and Open Problems in Federated Learning | Peter Kairouz | OPENALEX | distributed-systems, federated-learning | Federated learning (FL) is a machine learning s... |
-| Federated Learning in Mobile Edge Computing: An Edge-Le | Shashank Jere | DBLP | edge-computing, federated-learning | Research paper: Federated Learning in Mobile Ed... |
-| Network intrusion detection system: A systematic study  | Zeeshan Ahmad | OPENALEX | anomaly-detection, deep-learning | Abstract The rapid advances in the internet and... |
-| DeepFed: Federated Deep Learning for Intrusion Detectio | Beibei Li | OPENALEX | anomaly-detection, deep-learning | The rapid convergence of legacy industrial infr... |
-| CNN features with bi-directional LSTM for real-time ano | Waseem Ullah | OPENALEX | anomaly-detection, deep-learning | Research paper: CNN features with bi-directiona... |
-| Anomaly Detection in Videos for Video Surveillance Appl | Ruben J Franklin | OPENALEX | anomaly-detection, deep-learning | Security is always a main concern in every doma... |
-| RETRACTED: Efficient anomaly detection in surveillance  | M. Murugesan | OPENALEX | anomaly-detection, deep-learning | Research paper: RETRACTED: Efficient anomaly de... |
-| 3D-Convolutional Neural Network with Generative Adversa | Wonsup Shin | OPENALEX | anomaly-detection, deep-learning | As the surveillance devices proliferate, variou... |
-| Anomaly Event Detection in Security Surveillance Using  | Wangli Hao 0001 | DBLP | anomaly-detection | Research paper: Anomaly Event Detection in Secu... |
-| UAV-AdNet: Unsupervised Anomaly Detection using Deep Ne | Ilker Bozcan | DBLP | anomaly-detection, deep-learning | Research paper: UAV-AdNet: Unsupervised Anomaly... |
-| UAV-AdNet: Unsupervised Anomaly Detection using Deep Ne | Ilker Bozcan | DBLP | anomaly-detection, deep-learning | Research paper: UAV-AdNet: Unsupervised Anomaly... |
-| DOME: Recommendations for supervised machine learning v | Ian Walsh | ARXIV | methodology | Modern biology frequently relies on machine lea... |
-| Privacy-Preserving XGBoost Inference | Xianrui Meng | ARXIV | privacy-preserving | Although machine learning (ML) is widely used f... |
-| Privacy-Preserving Object Detection & Localization Usin | Stefan Zwaard | ARXIV | distributed-systems, methodology | Distributed machine learning is becoming a popu... |
-| Engineering Privacy-Preserving Machine Learning Protoco | Thomas Schneider | CROSSREF | privacy-preserving | Research paper: Engineering Privacy-Preserving ... |
-| Deep Anomaly Detection for Time-Series Data in Industri | Yi Liu | OPENALEX | anomaly-detection, edge-computing | Since edge device failures (i.e., anomalies) se... |
-| Secure, privacy-preserving and federated machine learni | Georgios Kaissis | OPENALEX | federated-learning, methodology | The broad application of artificial intelligenc... |
-| Trident: Efficient 4PC Framework for Privacy Preserving | Harsh Chaudhari | OPENALEX | methodology, privacy-preserving | Machine learning has started to be deployed in ... |
-| Preserving User Privacy for Machine Learning: Local Dif | Huadi Zheng | DBLP | federated-learning, privacy-preserving | Research paper: Preserving User Privacy for Mac... |
-| DistributedML@CoNEXT 2020: Proceedings of the 1st Works | N/A | DBLP | distributed-systems | Research paper: DistributedML@CoNEXT 2020: Proc... |
-| Network Anomaly Detection Using Federated Learning and  | Ying Zhao 0011 | DBLP | anomaly-detection, federated-learning | Research paper: Network Anomaly Detection Using... |
-| A comprehensive review on deep learning-based methods f | Rashmiranjan Nayak | OPENALEX | anomaly-detection, deep-learning | Research paper: A comprehensive review on deep ... |
-| Clustering Driven Deep Autoencoder for Video Anomaly De | Yunpeng Chang | OPENALEX | anomaly-detection, deep-learning | Research paper: Clustering Driven Deep Autoenco... |
-| Self-Trained Deep Ordinal Regression for End-to-End Vid | Guansong Pang | OPENALEX | anomaly-detection, methodology | Video anomaly detection is of critical practica... |
-| Heterogeneous Federated Learning | Fuxun Yu | ARXIV | federated-learning, methodology | Federated learning learns from scattered data b... |
-| Federated Learning: A Survey on Enabling Technologies,  | Mohammed Aledhari | OPENALEX | federated-learning, methodology | This paper provides a comprehensive study of Fe... |
-| FedVision: An Online Visual Object Detection Platform P | Yang Liu | OPENALEX | federated-learning, methodology | Visual object detection is a computer vision-ba... |
-### 2019
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Central Server Free Federated Learning over Single-side | Chaoyang He | ARXIV | federated-learning, privacy-preserving | Federated learning has become increasingly impo... |
-| Abnormal Client Behavior Detection in Federated Learnin | Suyi Li | ARXIV | anomaly-detection, federated-learning | In federated learning systems, clients are auto... |
-| Decentralized Federated Learning: A Segmented Gossip Ap | Chenghao Hu | ARXIV | distributed-systems, federated-learning | The emerging concern about data privacy and sec... |
-| Adaptive Federated Learning in Resource Constrained Edg | Shiqiang Wang | OPENALEX | edge-computing, federated-learning | Emerging technologies and applications includin... |
-| In-Edge AI: Intelligentizing Mobile Edge Computing, Cac | Xiaofei Wang | OPENALEX | edge-computing, federated-learning | Recently, along with the rapid development of m... |
-| Differentially Private Asynchronous Federated Learning  | Yunlong Lu | OPENALEX | distributed-systems, edge-computing | Driven by technologies such as mobile edge comp... |
-| Cyber Situation Awareness with Active Learning for Intr | Steven McElwee | ARXIV | anomaly-detection, methodology | Intrusion detection has focused primarily on de... |
-| Deep Learning Approach for Intelligent Intrusion Detect | R. Vinayakumar | OPENALEX | anomaly-detection, deep-learning | Machine learning techniques are being widely us... |
-| Machine Learning and Deep Learning Methods for Intrusio | Hongyu Liu | OPENALEX | anomaly-detection, deep-learning | Networks play important roles in modern life, a... |
-| Deep learning for cyber security intrusion detection: A | Mohamed Amine Ferrag | OPENALEX | anomaly-detection, deep-learning | Research paper: Deep learning for cyber securit... |
-| Deep learning approaches for anomaly-based intrusion de | Arwa Aldweesh | OPENALEX | anomaly-detection, deep-learning | Research paper: Deep learning approaches for an... |
-| A Comparative Analysis of Deep Learning Approaches for  | R. Vinayakumar | DBLP | anomaly-detection, deep-learning | Research paper: A Comparative Analysis of Deep ... |
-| Pseudo-3D Residual Networks Based Anomaly Detection in  | Bowen Lu | CROSSREF | anomaly-detection, video-anomaly-detection | Research paper: Pseudo-3D Residual Networks Bas... |
-| AnomalyNet: An Anomaly Detection Network for Video Surv | Joey Tianyi Zhou | OPENALEX | anomaly-detection, deep-learning | Sparse coding-based anomaly detection has shown... |
-| Multi-Task Network Anomaly Detection using Federated Le | Ying Zhao | OPENALEX | anomaly-detection, federated-learning | Because of the complexity of network traffic, t... |
-| Privacy-Preserving Machine Learning: Threats and Soluti | Mohammad Al-Rubaie | OPENALEX | edge-computing, privacy-preserving | For privacy concerns to be addressed adequately... |
-| A Benchmark Study of Machine Learning Models for Online | Junaed Younus Khan | ARXIV | methodology | The proliferation of fake news and its propagat... |
-| Overcoming Forgetting in Federated Learning on Non-IID  | Neta Shoham | ARXIV | federated-learning | We tackle the problem of Federated Learning in ... |
-### 2018
+### SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Federated Learning with Non-IID Data | Yue Zhao | OPENALEX | distributed-systems, edge-computing | Federated learning enables resource-constrained... |
-| A Deep Learning Approach to Network Intrusion Detection | Nathan Shone | OPENALEX | anomaly-detection, deep-learning | Network intrusion detection systems (NIDSs) pla... |
-| Chained Anomaly Detection Models for Federated Learning | Davy Preuveneers | OPENALEX | anomaly-detection, deep-learning | The adoption of machine learning and deep learn... |
-| Privacy-preserving Machine Learning as a Service | Ehsan Hesamifard | OPENALEX | deep-learning, methodology | Abstract Machine learning algorithms based on d... |
-| Chiron: Privacy-preserving Machine Learning as a Servic | Tyler Hunt | OPENALEX | privacy-preserving | Major cloud operators offer machine learning (M... |
-### 2017
+Federated Learning (FL) enables collaborative model training without exposing clients' private data, and has been widely adopted in privacy-sensitive scenarios. However, FL faces two critical security threats: curious servers that may launch inference attacks to reconstruct clients' private data, an...
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| A Deep Learning Approach for Intrusion Detection Using  | Chuanlong Yin | OPENALEX | anomaly-detection, deep-learning | Intrusion detection plays an important role in ... |
-| Spatio-Temporal AutoEncoder for Video Anomaly Detection | Yiru Zhao | OPENALEX | anomaly-detection, deep-learning | Anomalous events detection in real-world video ... |
-| Practical Secure Aggregation for Privacy-Preserving Mac | Keith Bonawitz | OPENALEX | federated-learning, privacy-preserving | We design a novel, communication-efficient, fai... |
-| SecureML: A System for Scalable Privacy-Preserving Mach | Payman Mohassel | OPENALEX | privacy-preserving | Machine learning is widely used in practice to ... |
-| 4  Distributed Machine Learning Framework | Arne Ehlers | CROSSREF | distributed-systems, methodology | Research paper: 4  Distributed Machine Learning... |
-| Speeding Up Distributed Machine Learning Using Codes | Kangwook Lee | OPENALEX | distributed-systems, methodology | Codes are widely used in many engineering appli... |
-| When edge meets learning: adaptive control for resource | Leung, KK | OPENALEX | distributed-systems, edge-computing | Emerging technologies and applications includin... |
-### 2016
+### MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| A Deep Learning Approach for Network Intrusion Detectio | Ahmad Y. Javaid | OPENALEX | anomaly-detection, deep-learning | A Network Intrusion Detection System (NIDS) hel... |
-| Deep learning approach for Network Intrusion Detection  | Tuan Anh Tang | OPENALEX | anomaly-detection, deep-learning | Software Defined Networking (SDN) has recently ... |
-| Maximally Divergent Intervals for Anomaly Detection | Erik Rodner | ARXIV | anomaly-detection, methodology | We present new methods for batch anomaly detect... |
-| Anomaly detection in aircraft data using Recurrent Neur | Anvardh Nanduri | CROSSREF | anomaly-detection, deep-learning | Research paper: Anomaly detection in aircraft d... |
-| A Comparative Evaluation of Unsupervised Anomaly Detect | Markus Goldstein | OPENALEX | anomaly-detection, methodology | Anomaly detection is the process of identifying... |
-| TensorFlow: Large-Scale Machine Learning on Heterogeneo | Martı́n Abadi | OPENALEX | distributed-systems, methodology | TensorFlow is an interface for expressing machi... |
-| Federated Optimization: Distributed Machine Learning fo | Jakub Konečný | OPENALEX | distributed-systems, federated-learning | We introduce a new and increasingly relevant se... |
-### 2014
+Identifying where quantum models may offer practical benefits in near term quantum machine learning (QML) requires moving beyond isolated algorithmic proposals toward systematic and empirical exploration across models, datasets, and hardware constraints. We introduce MerLin, an open-source framework...
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Graph-based Anomaly Detection and Description: A Survey | Leman Akoglu | ARXIV | anomaly-detection, survey | Detecting anomalies in data is a vital task, wi... |
-| Scaling distributed machine learning with the parameter | Mu Li | OPENALEX | distributed-systems, methodology | We propose a parameter server framework for dis... |
-| Scaling Distributed Machine Learning with the Parameter | Mu Li | OPENALEX | distributed-systems, edge-computing | Big data may contain big values, but also bring... |
-| Communication Efficient Distributed Machine Learning wi | Mu Li | OPENALEX | distributed-systems, methodology | This paper describes a third-generation paramet... |
-### 2013
+### Incentivizing Multi-Tenant Split Federated Learning for Foundation Models at the Network Edge
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| MLbase: A Distributed Machine-learning System | Tim Kraska | OPENALEX | distributed-systems, edge-computing | Machine learning (ML) and statistical technique... |
-### 2012
+Foundation models (FMs) such as GPT-4 exhibit exceptional generative capabilities across diverse downstream tasks through fine-tuning. Split Federated Learning (SFL) facilitates privacy-preserving FM fine-tuning on resource-constrained local devices by offloading partial FM computations to edge serv...
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Scikit-learn: Machine Learning in Python | Fabián Pedregosa | OPENALEX | methodology | Scikit-learn is a Python module integrating a w... |
-| Video anomaly detection based on local statistical aggr | Venkatesh Saligrama | OPENALEX | anomaly-detection, methodology | Anomalies in many video surveillance applicatio... |
-### 2011
+### Intelligent Offloading in Vehicular Edge Computing: A Comprehensive Review of Deep Reinforcement Learning Approaches and Architectures
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Distributed Optimization and Statistical Learning via t | Stephen Boyd | OPENALEX | distributed-systems, methodology | Many problems of recent interest in statistics ... |
-### 2010
+The increasing complexity of Intelligent Transportation Systems (ITS) has led to significant interest in computational offloading to external infrastructures such as edge servers, vehicular nodes, and UAVs. These dynamic and heterogeneous environments pose challenges for traditional offloading strat...
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| A Semi-distributed Reputation Based Intrusion Detection | Animesh Kr Trivedi | ARXIV | anomaly-detection, distributed-systems | A Mobile Adhoc Network (MANET) is a cooperative... |
-### 2006
+### CST-AFNet: A dual attention-based deep learning framework for intrusion detection in IoT networks
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Anomaly Detection for Surveillance Applications | N/A | CROSSREF | anomaly-detection | Research paper: Anomaly Detection for Surveilla... |
-### 1970
+The rapid expansion of the Internet of Things (IoT) has revolutionized modern industries by enabling smart automation and real time connectivity. However, this evolution has also introduced complex cybersecurity challenges due to the heterogeneous, resource constrained, and distributed nature of the...
 
-| Title | Authors | Source | Tags | Summary |
-|-------|---------|--------|------|---------|
-| Figure 1: Integrating federated learning, edge computin | N/A | CROSSREF | edge-computing, federated-learning | Research paper: Figure 1: Integrating federated... |
-| Deep Transfer Learning Based Intrusion Detection System | N/A | CROSSREF | anomaly-detection | Research paper: Deep Transfer Learning Based In... |
-| Deep Learning Anomaly Detection for Drone-based Surveil | Slim Hamdi | CROSSREF | anomaly-detection, deep-learning | <jats:title>Détection d'anomalies par apprentis... |
-| MPC-enabled privacy-preserving machine learning | Ziyao Liu | CROSSREF | privacy-preserving | Research paper: MPC-enabled privacy-preserving ... |
-| Privacy-preserving machine learning techniques | Beyza Bozdemir | CROSSREF | privacy-preserving | <jats:title>Apprentissage automatique et confid... |
-| Accelerating privacy-preserving machine learning with g | Xinyang Huang | CROSSREF | privacy-preserving | Research paper: Accelerating privacy-preserving... |
-| Privacy preserving and efficient machine learning algor | Ευσταθία Σουφλέρη | CROSSREF | methodology, privacy-preserving | <jats:p>Η ευρεία διαθεσιμότητα δεδομένων έχει α... |
-| Cryptography for privacy-preserving machine learning | Théo Ryffel | CROSSREF | privacy-preserving | <jats:title>La cryptographie au service de l'ap... |
-| Robust and privacy preserving distributed machine learn | Rania Talbi | CROSSREF | distributed-systems, methodology | <jats:title>Apprentissage automatique distribué... |
-| Privacy-Preserving Machine Learning over Distributed Da | Ali Reza Ghavamipour | CROSSREF | distributed-systems, privacy-preserving | Research paper: Privacy-Preserving Machine Lear... |
-| Privacy Preserving Machine Learning as a Service | Ehsan Hesamifard | CROSSREF | deep-learning, methodology | <jats:p xml:lang="en">Machine learning algorith... |
-| Network scheduling for distributed machine learning | Jiacheng Xia | CROSSREF | distributed-systems | Research paper: Network scheduling for distribu... |
-| Distributed ledger technologies (DLT) and machine learn | Ανδρέας-Ρόναλντ Σορτ | CROSSREF | distributed-systems, edge-computing | <jats:p>Η παρούσα διδακτορική διατριβή ερευνά τ... |
-| Network optimization for distributed machine learning o | Yuezhou Liu | CROSSREF | distributed-systems | Research paper: Network optimization for distri... |
-| Video for Dew Intelligence: Federated learning perspect | N/A | CROSSREF | federated-learning | Research paper: Video for Dew Intelligence: Fed... |
-| Video for FedExg: Federated Learning with Model Exchang | N/A | CROSSREF | federated-learning | Research paper: Video for FedExg: Federated Lea... |
-| Video for Real-time End-to-End Federated Learning: An A | N/A | CROSSREF | federated-learning | Research paper: Video for Real-time End-to-End ... |
+### WSCIF: A Weakly-Supervised Color Intelligence Framework for Tactical Anomaly Detection in Surveillance Keyframes
 
-## Tags Summary
+The deployment of traditional deep learning models in high-risk security tasks in an unlabeled, data-non-exploitable video intelligence environment faces significant challenges. In this paper, we propose a lightweight anomaly detection framework based on color features for surveillance video clips i...
 
-- **anomaly-detection**: 143 papers
-- **federated-learning**: 106 papers
-- **methodology**: 85 papers
-- **deep-learning**: 81 papers
-- **edge-computing**: 56 papers
-- **distributed-systems**: 54 papers
-- **privacy-preserving**: 50 papers
-- **video-anomaly-detection**: 33 papers
-- **survey**: 15 papers
-- **security**: 12 papers
+### Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting
+
+Prompting has emerged as a practical way to adapt frozen vision-language models (VLMs) for video anomaly detection (VAD). Yet, existing prompts are often overly abstract, overlooking the fine-grained human-object interactions or action semantics that define complex anomalies in surveillance videos. ...
+
+### Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning
+
+We introduce the Fourier Learning Machine (FLM), a neural network (NN) architecture designed to represent a multidimensional nonharmonic Fourier series. The FLM uses a simple feedforward structure with cosine activation functions to learn the frequencies, amplitudes, and phase shifts of the series a...
+
+### DUAL-VAD: Dual Benchmarks and Anomaly-Focused Sampling for Video Anomaly Detection
+
+Video Anomaly Detection (VAD) is critical for surveillance and public safety. However, existing benchmarks are limited to either frame-level or video-level tasks, restricting a holistic view of model generalization. This work first introduces a softmax-based frame allocation strategy that prioritize...
+
+### SmartHome-Bench: A Comprehensive Benchmark for Video Anomaly Detection in Smart Homes Using Multi-Modal Large Language Models
+
+Video anomaly detection (VAD) is essential for enhancing safety and security by identifying unusual events across different environments. Existing VAD benchmarks, however, are primarily designed for general-purpose scenarios, neglecting the specific characteristics of smart home applications. To bri...
+
+### Distributed Deep Reinforcement Learning Based Gradient Quantization for Federated Learning Enabled Vehicle Edge Computing
+
+Federated Learning (FL) can protect the privacy of the vehicles in vehicle edge computing (VEC) to a certain extent through sharing the gradients of vehicles' local models instead of local data. The gradients of vehicles' local models are usually large for the vehicular artificial intelligence (AI) ...
+
+### Anomaly Detection of Tabular Data Using LLMs
+
+Large language models (LLMs) have shown their potential in long-context understanding and mathematical reasoning. In this paper, we study the problem of using LLMs to detect tabular anomalies and show that pre-trained LLMs are zero-shot batch-level anomaly detectors. That is, without extra distribut...
+
+### SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection
+
+Detecting anomalies in images has become a well-explored problem in both academia and industry. State-of-the-art algorithms are able to detect defects in increasingly difficult settings and data modalities. However, most current methods are not suited to address 3D objects captured from differing po...
+
+### Data Poisoning and Leakage Analysis in Federated Learning
+
+Data poisoning and leakage risks impede the massive deployment of federated learning in the real world. This chapter reveals the truths and pitfalls of understanding two dominating threats: {\em training data privacy intrusion} and {\em training data poisoning}. We first investigate training data pr...
+
+### Learning Representation for Anomaly Detection of Vehicle Trajectories
+
+Predicting the future trajectories of surrounding vehicles based on their history trajectories is a critical task in autonomous driving. However, when small crafted perturbations are introduced to those history trajectories, the resulting anomalous (or adversarial) trajectories can significantly mis...
+
+### Autoencoder-based Anomaly Detection in Streaming Data with Incremental Learning and Concept Drift Adaptation
+
+In our digital universe nowadays, enormous amount of data are produced in a streaming manner in a variety of application areas. These data are often unlabelled. In this case, identifying infrequent events, such as anomalies, poses a great challenge. This problem becomes even more difficult in non-st...
+
+### Evaluating Multi-Global Server Architecture for Federated Learning
+
+Federated learning (FL) with a single global server framework is currently a popular approach for training machine learning models on decentralized environment, such as mobile devices and edge devices. However, the centralized server architecture poses a risk as any challenge on the central/global s...
+
+### Online Self-Supervised Deep Learning for Intrusion Detection Systems
+
+This paper proposes a novel Self-Supervised Intrusion Detection (SSID) framework, which enables a fully online Deep Learning (DL) based Intrusion Detection System (IDS) that requires no human intervention or prior off-line learning. The proposed framework analyzes and labels incoming traffic packets...
+
+### Learn to Accumulate Evidence from All Training Samples: Theory and Practice
+
+Evidential deep learning, built upon belief theory and subjective logic, offers a principled and computationally efficient way to turn a deterministic neural network uncertainty-aware. The resultant evidential models can quantify fine-grained uncertainty using the learned evidence. To ensure theoret...
+
+### Privacy-preserving machine learning for healthcare: open challenges and future perspectives
+
+Machine Learning (ML) has recently shown tremendous success in modeling various healthcare prediction tasks, ranging from disease diagnosis and prognosis to patient treatment. Due to the sensitive nature of medical data, privacy must be considered along the entire ML pipeline, from model training to...
+
+### Changing Data Sources in the Age of Machine Learning for Official Statistics
+
+Data science has become increasingly essential for the production of official statistics, as it enables the automated collection, processing, and analysis of large amounts of data. With such data science practices in place, it enables more timely, more insightful and more flexible reporting. However...
+
+### Approximate, Adapt, Anonymize (3A): a Framework for Privacy Preserving Training Data Release for Machine Learning
+
+The availability of large amounts of informative data is crucial for successful machine learning. However, in domains with sensitive information, the release of high-utility data which protects the privacy of individuals has proven challenging. Despite progress in differential privacy and generative...
+
+### Active learning for data streams: a survey
+
+Online active learning is a paradigm in machine learning that aims to select the most informative data points to label from a data stream. The problem of minimizing the cost associated with collecting labeled observations has gained a lot of attention in recent years, particularly in real-world appl...
+
+### Physics-Inspired Interpretability Of Machine Learning Models
+
+The ability to explain decisions made by machine learning models remains one of the most significant hurdles towards widespread adoption of AI in highly sensitive areas such as medicine, cybersecurity or autonomous driving. Great interest exists in understanding which features of the input data prom...
+
+### Representation Learning in Anomaly Detection: Successes, Limits and a Grand Challenge
+
+In this perspective paper, we argue that the dominant paradigm in anomaly detection cannot scale indefinitely and will eventually hit fundamental limits. This is due to the a no free lunch principle for anomaly detection. These limitations can be overcome when there are strong tasks priors, as is th...
+
+### Towards Interpretable Federated Learning
+
+Federated learning (FL) enables multiple data owners to build machine learning models collaboratively without exposing their private local data. In order for FL to achieve widespread adoption, it is important to balance the need for performance, privacy-preservation and interpretability, especially ...
+
+### Federated and Transfer Learning: A Survey on Adversaries and Defense Mechanisms
+
+The advent of federated learning has facilitated large-scale data exchange amongst machine learning models while maintaining privacy. Despite its brief history, federated learning is rapidly evolving to make wider use more practical. One of the most significant advancements in this domain is the inc...
+
+### A Hybrid Deep Learning Anomaly Detection Framework for Intrusion Detection
+
+Cyber intrusion attacks that compromise the users' critical and sensitive data are escalating in volume and intensity, especially with the growing connections between our daily life and the Internet. The large volume and high complexity of such intrusion attacks have impeded the effectiveness of mos...
+
+### Intrusion Detection in Internet of Things using Convolutional Neural Networks
+
+Internet of Things (IoT) has become a popular paradigm to fulfil needs of the industry such as asset tracking, resource monitoring and automation. As security mechanisms are often neglected during the deployment of IoT devices, they are more easily attacked by complicated and large volume intrusion ...
+
+### A deep learning approach to predict the number of k-barriers for intrusion detection over a circular region using wireless sensor networks
+
+Wireless Sensor Networks (WSNs) is a promising technology with enormous applications in almost every walk of life. One of the crucial applications of WSNs is intrusion detection and surveillance at the border areas and in the defense establishments. The border areas are stretched in hundreds to thou...
+
+### Rethinking Graph Neural Networks for Anomaly Detection
+
+Graph Neural Networks (GNNs) are widely applied for graph anomaly detection. As one of the key components for GNN design is to select a tailored spectral filter, we take the first step towards analyzing anomalies via the lens of the graph spectrum. Our crucial observation is the existence of anomali...
+
+### Mul-GAD: a semi-supervised graph anomaly detection framework via aggregating multi-view information
+
+Anomaly detection is defined as discovering patterns that do not conform to the expected behavior. Previously, anomaly detection was mostly conducted using traditional shallow learning techniques, but with little improvement. As the emergence of graph neural networks (GNN), graph anomaly detection h...
+
+### Trustworthy Anomaly Detection: A Survey
+
+Anomaly detection has a wide range of real-world applications, such as bank fraud detection and cyber intrusion detection. In the past decade, a variety of anomaly detection models have been developed, which lead to big progress towards accurately detecting various anomalies. Despite the successes, ...
+
+### Learning Curves for Decision Making in Supervised Machine Learning: A Survey
+
+Learning curves are a concept from social sciences that has been adopted in the context of machine learning to assess the performance of a learning algorithm with respect to a certain resource, e.g., the number of training examples or the number of training iterations. Learning curves have important...
+
+### Federated Quantum Natural Gradient Descent for Quantum Federated Learning
+
+The heart of Quantum Federated Learning (QFL) is associated with a distributed learning architecture across several local quantum devices and a more efficient training algorithm for the QFL is expected to minimize the communication overhead among different quantum participants. In this work, we put ...
+
+### The Modern Mathematics of Deep Learning
+
+We describe the new field of mathematical analysis of deep learning. This field emerged around a list of research questions that were not answered within the classical framework of learning theory. These questions concern: the outstanding generalization power of overparametrized neural networks, the...
+
+### VAFL: a Method of Vertical Asynchronous Federated Learning
+
+Horizontal Federated learning (FL) handles multi-client data that share the same set of features, and vertical FL trains a better predictor that combine all the features from different clients. This paper targets solving vertical FL in an asynchronous fashion, and develops a simple FL method. The ne...
+
+### Challenges in Vessel Behavior and Anomaly Detection: From Classical Machine Learning to Deep Learning
+
+The global expansion of maritime activities and the development of the Automatic Identification System (AIS) have driven the advances in maritime monitoring systems in the last decade. Monitoring vessel behavior is fundamental to safeguard maritime operations, protecting other vessels sailing the oc...
+
+### Coded Computing for Federated Learning at the Edge
+
+Federated Learning (FL) is an exciting new paradigm that enables training a global model from data generated locally at the client nodes, without moving client data to a centralized server. Performance of FL in a multi-access edge computing (MEC) network suffers from slow convergence due to heteroge...
+
+### DOME: Recommendations for supervised machine learning validation in biology
+
+Modern biology frequently relies on machine learning to provide predictions and improve decision processes. There have been recent calls for more scrutiny on machine learning performance and possible limitations. Here we present a set of community-wide recommendations aiming to help establish standa...
+
+### Privacy-Preserving XGBoost Inference
+
+Although machine learning (ML) is widely used for predictive tasks, there are important scenarios in which ML cannot be used or at least cannot achieve its full potential. A major barrier to adoption is the sensitive nature of predictive queries. Individual users may lack sufficiently rich datasets ...
+
+### Privacy-Preserving Object Detection & Localization Using Distributed Machine Learning: A Case Study of Infant Eyeblink Conditioning
+
+Distributed machine learning is becoming a popular model-training method due to privacy, computational scalability, and bandwidth capacities. In this work, we explore scalable distributed-training versions of two algorithms commonly used in object detection. A novel distributed training algorithm us...
+
+### Heterogeneous Federated Learning
+
+Federated learning learns from scattered data by fusing collaborative models from local nodes. However, due to chaotic information distribution, the model fusion may suffer from structural misalignment with regard to unmatched parameters. In this work, we propose a novel federated learning framework...
+
+### Central Server Free Federated Learning over Single-sided Trust Social Networks
+
+Federated learning has become increasingly important for modern machine learning, especially for data privacy-sensitive scenarios. Existing federated learning mostly adopts the central server-based architecture or centralized architecture. However, in many social network scenarios, centralized feder...
+
+### Abnormal Client Behavior Detection in Federated Learning
+
+In federated learning systems, clients are autonomous in that their behaviors are not fully governed by the server. Consequently, a client may intentionally or unintentionally deviate from the prescribed course of federated model training, resulting in abnormal behaviors, such as turning into a mali...
+
+### Decentralized Federated Learning: A Segmented Gossip Approach
+
+The emerging concern about data privacy and security has motivated the proposal of federated learning, which allows nodes to only synchronize the locally-trained models instead their own original data. Conventional federated learning architecture, inherited from the parameter server design, relies o...
+
+### Cyber Situation Awareness with Active Learning for Intrusion Detection
+
+Intrusion detection has focused primarily on detecting cyberattacks at the event-level. Since there is such a large volume of network data and attacks are minimal, machine learning approaches have focused on improving accuracy and reducing false positives, but this has frequently resulted in overfit...
+
+### A Benchmark Study of Machine Learning Models for Online Fake News Detection
+
+The proliferation of fake news and its propagation on social media has become a major concern due to its ability to create devastating impacts. Different machine learning approaches have been suggested to detect fake news. However, most of those focused on a specific type of news (such as political)...
+
+### Overcoming Forgetting in Federated Learning on Non-IID Data
+
+We tackle the problem of Federated Learning in the non i.i.d. case, in which local models drift apart, inhibiting learning. Building on an analogy with Lifelong Learning, we adapt a solution for catastrophic forgetting to Federated Learning. We add a penalty term to the loss function, compelling all...
+
+### Maximally Divergent Intervals for Anomaly Detection
+
+We present new methods for batch anomaly detection in multivariate time series. Our methods are based on maximizing the Kullback-Leibler divergence between the data distribution within and outside an interval of the time series. An empirical analysis shows the benefits of our algorithms compared to ...
+
+### Graph-based Anomaly Detection and Description: A Survey
+
+Detecting anomalies in data is a vital task, with numerous high-impact applications in areas such as security, finance, health care, and law enforcement. While numerous techniques have been developed in past years for spotting outliers and anomalies in unstructured collections of multi-dimensional p...
+
+### A Semi-distributed Reputation Based Intrusion Detection System for Mobile Adhoc Networks
+
+A Mobile Adhoc Network (MANET) is a cooperative engagement of a collection of mobile nodes without any centralized access point or infrastructure to coordinate among the peers. The underlying concept of coordination among nodes in a cooperative MANET has induced in them a vulnerability to attacks du...
