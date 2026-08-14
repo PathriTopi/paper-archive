@@ -3,7 +3,13 @@
 Adaptive Federated Learning for Distributed Video Anomaly Detection
 
 **Total Papers:** 280
-**Last Updated:** 2026-08-14T23:21:43.239788
+**Papers with PDFs:** 87 (31%)
+**Last Updated:** 2026-08-15T00:46:00.000000
+
+## Download Statistics
+- **Unpaywall Open Access Downloads:** 34 PDFs
+- **Total PDF Coverage:** 87/280 papers (31%)
+- **Previous Coverage:** 53/280 papers (19%)
 
 ## Papers by Year
 
