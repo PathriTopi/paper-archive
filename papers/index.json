@@ -798,7 +798,7 @@
       "url": "http://arxiv.org/abs/2503.04971v2",
       "source": "arxiv",
       "paper_id": "2503.04971v2",
-      "local_pdf_path": "papers/pdfs/2503.04971v2.pdf",
+      "local_pdf_path": null,
       "summary": "Foundation models (FMs) such as GPT-4 exhibit exceptional generative capabilities across diverse downstream tasks through fine-tuning. Split Federated Learning (SFL) facilitates privacy-preserving FM fine-tuning on resource-constrained local devices by offloading partial FM computations to edge serv...",
       "tags": [
         "edge-computing",
@@ -4778,7 +4778,7 @@
       "url": "http://arxiv.org/abs/2008.06767v2",
       "source": "arxiv",
       "paper_id": "2008.06767v2",
-      "local_pdf_path": "papers/pdfs/2008.06767v2.pdf",
+      "local_pdf_path": null,
       "summary": "Federated learning learns from scattered data by fusing collaborative models from local nodes. However, due to chaotic information distribution, the model fusion may suffer from structural misalignment with regard to unmatched parameters. In this work, we propose a novel federated learning framework...",
       "tags": [
         "federated-learning",
