@@ -28,12 +28,12 @@
       "id": "arxiv_2608.08906",
       "title": "Federated Attention Autoencoders with a Stochastic Aggregation Scheme for Anomaly Detection",
       "authors": [
-        "Mihailo Ilić",
-        "Miloš Savić",
+        "Mihailo Ili\u0107",
+        "Milo\u0161 Savi\u0107",
         "Vladimir Kurbalija",
-        "Mirjana Ivanović",
+        "Mirjana Ivanovi\u0107",
         "Giancarlo Fortino",
-        "Dušan Jakovetić"
+        "Du\u0161an Jakoveti\u0107"
       ],
       "year": 2026,
       "doi": "10.1109/FLTA67013.2025.11336743",
@@ -41,7 +41,7 @@
       "source": "arxiv",
       "paper_id": "2608.08906v1",
       "local_pdf_path": "papers/pdfs/federated-attention-autoencoders-with-a_arxiv_2608.08906v1.pdf",
-      "summary": "Aggregation Scheme for Anomaly Detection\nMihailo Ili ´c∗, Milo ˇs Savi ´c∗, Vladimir Kurbalija∗, Mirjana Ivanovi ´c∗, Giancarlo Fortino†, Du ˇsan Jakoveti´c∗\nDepartment of Mathematics and Informatics, Faculty of Sciences, University of Novi Sad, Serbia\nmilic,svc,kurba,mira,dusan.jakovetic}@dmi.uns.ac.rs\nDepartment of Informatics, Modeling, Electronics, and Systems, University of \n",
+      "summary": "Aggregation Scheme for Anomaly Detection\nMihailo Ili \u00b4c\u2217, Milo \u02c7s Savi \u00b4c\u2217, Vladimir Kurbalija\u2217, Mirjana Ivanovi \u00b4c\u2217, Giancarlo Fortino\u2020, Du \u02c7san Jakoveti\u00b4c\u2217\nDepartment of Mathematics and Informatics, Faculty of Sciences, University of Novi Sad, Serbia\nmilic,svc,kurba,mira,dusan.jakovetic}@dmi.uns.ac.rs\nDepartment of Informatics, Modeling, Electronics, and Systems, University of \n",
       "tags": [
         "anomaly-detection",
         "deep-learning",
@@ -109,7 +109,7 @@
       "source": "arxiv",
       "paper_id": "2607.14489v1",
       "local_pdf_path": "papers/pdfs/edgefaas-a-function-based-framework-for-edge_arxiv_2607.14489v1.pdf",
-      "summary": "Computing\nNeha Vadnere, Yu-Ting Wang, Yitao Chen, Sreehari Sadesh, Ming Zhao\nArizona State University, Tempe, USA\nAbstract—Edge computing brings unique challenges as the\nresources on the edge are highly diverse in capabilities and\ncapacities, and highly distributed across many users and the\nphysical world. Existing distributed computing frameworks can-\nnot adequately handle this level of heterog\n",
+      "summary": "Computing\nNeha Vadnere, Yu-Ting Wang, Yitao Chen, Sreehari Sadesh, Ming Zhao\nArizona State University, Tempe, USA\nAbstract\u2014Edge computing brings unique challenges as the\nresources on the edge are highly diverse in capabilities and\ncapacities, and highly distributed across many users and the\nphysical world. Existing distributed computing frameworks can-\nnot adequately handle this level of heterog\n",
       "tags": [
         "distributed-systems",
         "edge-computing",
@@ -119,7 +119,7 @@
     },
     {
       "id": "crossref_10.1002_9781394461295.ch9",
-      "title": "Federated Learning with Edge Computing for Real‐Time Decision‐Making",
+      "title": "Federated Learning with Edge Computing for Real\u2010Time Decision\u2010Making",
       "authors": [
         "A. Charles Mahimainathan"
       ],
@@ -129,7 +129,7 @@
       "source": "crossref",
       "paper_id": "10.1002/9781394461295.ch9",
       "local_pdf_path": null,
-      "summary": "Research paper: Federated Learning with Edge Computing for Real‐Time Decisio",
+      "summary": "Research paper: Federated Learning with Edge Computing for Real\u2010Time Decisio",
       "tags": [
         "edge-computing",
         "federated-learning"
@@ -246,13 +246,13 @@
       "source": "crossref",
       "paper_id": "10.55677/craj/10-2026-vol03i06",
       "local_pdf_path": null,
-      "summary": "<jats:p>Deep learning has revolutionised pattern recognition by integrating feature extraction and classification into end-to-end models, eliminating the need for manual feature engineering. This survey paper reviews recent advancements in deep learning–based anomaly detection for network intrusion ...",
+      "summary": "<jats:p>Deep learning has revolutionised pattern recognition by integrating feature extraction and classification into end-to-end models, eliminating the need for manual feature engineering. This survey paper reviews recent advancements in deep learning\u2013based anomaly detection for network intrusion ...",
       "tags": [
         "anomaly-detection",
         "deep-learning",
         "survey"
       ],
-      "abstract": "<jats:p>Deep learning has revolutionised pattern recognition by integrating feature extraction and classification into end-to-end models, eliminating the need for manual feature engineering. This survey paper reviews recent advancements in deep learning–based anomaly detection for network intrusion detection systems (NIDS). The review focuses on three major classes of models: convolutional neural "
+      "abstract": "<jats:p>Deep learning has revolutionised pattern recognition by integrating feature extraction and classification into end-to-end models, eliminating the need for manual feature engineering. This survey paper reviews recent advancements in deep learning\u2013based anomaly detection for network intrusion detection systems (NIDS). The review focuses on three major classes of models: convolutional neural "
     },
     {
       "id": "crossref_10.2139_ssrn.6747238",
@@ -298,8 +298,8 @@
       "id": "dblp_abs-2605-02372",
       "title": "Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized Differential Privacy Budgets in Federated Learning.",
       "authors": [
-        "Judith Sáinz-Pardo Díaz",
-        "Álvaro López García"
+        "Judith S\u00e1inz-Pardo D\u00edaz",
+        "\u00c1lvaro L\u00f3pez Garc\u00eda"
       ],
       "year": 2026,
       "doi": "10.48550/arXiv.2605.02372",
@@ -364,10 +364,10 @@
         "Benjamin Stott",
         "Philippe Schoeb",
         "Anthony Walsh",
-        "Grégoire Leboucher",
+        "Gr\u00e9goire Leboucher",
         "Vincent Espitalier",
         "Vassilis Apostolou",
-        "Louis-Félix Vigneux",
+        "Louis-F\u00e9lix Vigneux",
         "Alexia Salavrakos",
         "Jean Senellart"
       ],
@@ -987,7 +987,7 @@
     },
     {
       "id": "crossref_10.1002_9781394285198.ch11",
-      "title": "Deep Learning‐Based Intrusion Detection in Wireless Networks",
+      "title": "Deep Learning\u2010Based Intrusion Detection in Wireless Networks",
       "authors": [
         "Shadab Alam",
         "Sadaf Ahmad"
@@ -998,7 +998,7 @@
       "source": "crossref",
       "paper_id": "10.1002/9781394285198.ch11",
       "local_pdf_path": null,
-      "summary": "Research paper: Deep Learning‐Based Intrusion Detection in Wireless Networks",
+      "summary": "Research paper: Deep Learning\u2010Based Intrusion Detection in Wireless Networks",
       "tags": [
         "anomaly-detection",
         "deep-learning"
@@ -1007,7 +1007,7 @@
     },
     {
       "id": "crossref_10.1002_9781394285198.ch10",
-      "title": "Deep Learning‐Based Intrusion Detection in Wireless Networks",
+      "title": "Deep Learning\u2010Based Intrusion Detection in Wireless Networks",
       "authors": [
         "Rahila Rahim",
         "Mohammad Ahsan Chishti"
@@ -1018,7 +1018,7 @@
       "source": "crossref",
       "paper_id": "10.1002/9781394285198.ch10",
       "local_pdf_path": null,
-      "summary": "Research paper: Deep Learning‐Based Intrusion Detection in Wireless Networks",
+      "summary": "Research paper: Deep Learning\u2010Based Intrusion Detection in Wireless Networks",
       "tags": [
         "anomaly-detection",
         "deep-learning"
@@ -1064,7 +1064,7 @@
     },
     {
       "id": "crossref_10.1002_9781394285198.ch6",
-      "title": "Dataset for Evaluating Deep Learning‐Based Intrusion Detection",
+      "title": "Dataset for Evaluating Deep Learning\u2010Based Intrusion Detection",
       "authors": [
         "Wasia Ashraf",
         "Faheem Syeed Masoodi",
@@ -1076,7 +1076,7 @@
       "source": "crossref",
       "paper_id": "10.1002/9781394285198.ch6",
       "local_pdf_path": null,
-      "summary": "Research paper: Dataset for Evaluating Deep Learning‐Based Intrusion Detecti",
+      "summary": "Research paper: Dataset for Evaluating Deep Learning\u2010Based Intrusion Detecti",
       "tags": [
         "anomaly-detection",
         "deep-learning"
@@ -1325,7 +1325,7 @@
       "id": "dblp_Dusing25",
       "title": "Federated Learning Platforms for Dynamic and Value-Driven Participation in Privacy-Preserving Machine Learning.",
       "authors": [
-        "Christoph Düsing"
+        "Christoph D\u00fcsing"
       ],
       "year": 2025,
       "doi": "",
@@ -1345,8 +1345,8 @@
       "title": "Robust Representation Learning for Privacy-Preserving Machine Learning: A Multi-Objective Autoencoder Approach.",
       "authors": [
         "Sofiane Ouaari",
-        "Ali Burak Ünal",
-        "Mete Akgün",
+        "Ali Burak \u00dcnal",
+        "Mete Akg\u00fcn",
         "Nico Pfeifer"
       ],
       "year": 2025,
@@ -1368,14 +1368,14 @@
       "title": "Landscape of machine learning evolution: privacy-preserving federated learning frameworks and tools.",
       "authors": [
         "Giang Thu Nguyen",
-        "Judith Sáinz-Pardo Díaz",
+        "Judith S\u00e1inz-Pardo D\u00edaz",
         "Amanda Calatrava",
         "Lisana Berberi",
         "Oleksandr Lytvyn",
         "Valentin Kozlov",
         "Viet D. Tran",
-        "Germán Moltó",
-        "Álvaro López García"
+        "Germ\u00e1n Molt\u00f3",
+        "\u00c1lvaro L\u00f3pez Garc\u00eda"
       ],
       "year": 2025,
       "doi": "10.1007/s10462-024-11036-2",
@@ -2177,7 +2177,7 @@
       "title": "Federated learning for medical image analysis: A survey",
       "authors": [
         "Hao Guan",
-        "Pew‐Thian Yap",
+        "Pew\u2010Thian Yap",
         "Andrea Bozoki",
         "Mingxia Liu"
       ],
@@ -2340,7 +2340,7 @@
       "id": "arxiv_2306.13030",
       "title": "Online Self-Supervised Deep Learning for Intrusion Detection Systems",
       "authors": [
-        "Mert Nakıp",
+        "Mert Nak\u0131p",
         "Erol Gelenbe"
       ],
       "year": 2023,
@@ -2378,7 +2378,7 @@
     },
     {
       "id": "dblp_Sassi23",
-      "title": "Low carbon footprint intrusion detection in IoT systems based on Deep Learning algorithms combined with a metaheuristic. (Détection d'intrusion à faible empreinte carbone dans les systèmes IoT basée sur un algorithmes Deep Learning combiné à une métaheuristique).",
+      "title": "Low carbon footprint intrusion detection in IoT systems based on Deep Learning algorithms combined with a metaheuristic. (D\u00e9tection d'intrusion \u00e0 faible empreinte carbone dans les syst\u00e8mes IoT bas\u00e9e sur un algorithmes Deep Learning combin\u00e9 \u00e0 une m\u00e9taheuristique).",
       "authors": [
         "Mohamed Sassi"
       ],
@@ -2398,7 +2398,7 @@
     },
     {
       "id": "dblp_Khatib23",
-      "title": "Intrusion detection with deep learning for in-vehicle networks. (Détection d'intrusion avec les techniques d'apprentissage en profondeur pour les réseaux automobiles embarqués).",
+      "title": "Intrusion detection with deep learning for in-vehicle networks. (D\u00e9tection d'intrusion avec les techniques d'apprentissage en profondeur pour les r\u00e9seaux automobiles embarqu\u00e9s).",
       "authors": [
         "Natasha Al-Khatib"
       ],
@@ -2446,7 +2446,7 @@
         "Kainat Ibrar",
         "Muhammad Sharif",
         "Seifedine Kadry",
-        "Rubén González Crespo"
+        "Rub\u00e9n Gonz\u00e1lez Crespo"
       ],
       "year": 2023,
       "doi": "10.1016/j.imavis.2023.104710",
@@ -2471,7 +2471,7 @@
         "Kainat Ibrar",
         "Muhammad Sharif 0001",
         "Seifedine Kadry 0001",
-        "Rubén González Crespo"
+        "Rub\u00e9n Gonz\u00e1lez Crespo"
       ],
       "year": 2023,
       "doi": "10.1016/j.imavis.2023.104710",
@@ -2619,7 +2619,7 @@
         "Abdellah El Mekki",
         "Soufiane Oualil",
         "Zakaria Yartaoui",
-        "Ismaïl Berrada"
+        "Isma\u00efl Berrada"
       ],
       "year": 2023,
       "doi": "10.1016/j.eswa.2023.121000",
@@ -2802,7 +2802,7 @@
     },
     {
       "id": "dblp_Poirier23a",
-      "title": "Détection d'anomalies en temps réel dans un flux vidéo. (Real-time anomaly detection in a video stream).",
+      "title": "D\u00e9tection d'anomalies en temps r\u00e9el dans un flux vid\u00e9o. (Real-time anomaly detection in a video stream).",
       "authors": [
         "Fabien Poirier"
       ],
@@ -2812,7 +2812,7 @@
       "source": "dblp",
       "paper_id": "Poirier23a",
       "local_pdf_path": null,
-      "summary": "Research paper: Détection d'anomalies en temps réel dans un flux vidéo. (Rea",
+      "summary": "Research paper: D\u00e9tection d'anomalies en temps r\u00e9el dans un flux vid\u00e9o. (Rea",
       "tags": [
         "anomaly-detection"
       ],
@@ -2820,7 +2820,7 @@
     },
     {
       "id": "dblp_Shao23",
-      "title": "Enhancing Video Anomaly Detection by Leveraging Advanced Deep Learning Techniques. (Amélioration de la détection d'anomalies vidéo basée sur des technique avancées d'Apprentissage Profond).",
+      "title": "Enhancing Video Anomaly Detection by Leveraging Advanced Deep Learning Techniques. (Am\u00e9lioration de la d\u00e9tection d'anomalies vid\u00e9o bas\u00e9e sur des technique avanc\u00e9es d'Apprentissage Profond).",
       "authors": [
         "Wenhao Shao"
       ],
@@ -3180,7 +3180,7 @@
       "authors": [
         "Mehmet Yagan",
         "E. Alaattin Yilmaz",
-        "Hüseyin Özkan"
+        "H\u00fcseyin \u00d6zkan"
       ],
       "year": 2022,
       "doi": "10.1109/SIU55565.2022.9864893",
@@ -3230,7 +3230,7 @@
         "Junghyun Lee",
         "Donghoon Yoo",
         "Young Sik Kim",
-        "Jong‐Seon No"
+        "Jong\u2010Seon No"
       ],
       "year": 2022,
       "doi": "10.1109/access.2022.3159694",
@@ -3248,7 +3248,7 @@
     },
     {
       "id": "crossref_10.1007_978-3-031-19067-4_1",
-      "title": "Distributed Optimization in Machine Learning",
+      "title": "Distributed Optimization in\u00a0Machine Learning",
       "authors": [
         "Gauri Joshi"
       ],
@@ -3258,7 +3258,7 @@
       "source": "crossref",
       "paper_id": "10.1007/978-3-031-19067-4_1",
       "local_pdf_path": null,
-      "summary": "Research paper: Distributed Optimization in Machine Learning",
+      "summary": "Research paper: Distributed Optimization in\u00a0Machine Learning",
       "tags": [
         "distributed-systems"
       ],
@@ -3320,9 +3320,9 @@
         "Muhammad Zaigham Zaheer",
         "Arif Mahmood",
         "Muhammad Haris Khan",
-        "Mattia Segù",
+        "Mattia Seg\u00f9",
         "Fisher Yu",
-        "Seung‐Ik Lee"
+        "Seung\u2010Ik Lee"
       ],
       "year": 2022,
       "doi": "10.1109/cvpr52688.2022.01433",
@@ -3467,13 +3467,13 @@
       "source": "openalex",
       "paper_id": "W4213044365",
       "local_pdf_path": null,
-      "summary": "Users’ privacy is vulnerable at all stages of the deep learning process. Sensitive information of users may be disclosed during data collection, during training, or even after releasing the trained learning model. Differential privacy (DP) is one of the main approaches proven to ensure strong privac...",
+      "summary": "Users\u2019 privacy is vulnerable at all stages of the deep learning process. Sensitive information of users may be disclosed during data collection, during training, or even after releasing the trained learning model. Differential privacy (DP) is one of the main approaches proven to ensure strong privac...",
       "tags": [
         "deep-learning",
         "federated-learning",
         "methodology"
       ],
-      "abstract": "Users’ privacy is vulnerable at all stages of the deep learning process. Sensitive information of users may be disclosed during data collection, during training, or even after releasing the trained learning model. Differential privacy (DP) is one of the main approaches proven to ensure strong privacy protection in data analysis. DP protects the users’ privacy by adding noise to the original datase"
+      "abstract": "Users\u2019 privacy is vulnerable at all stages of the deep learning process. Sensitive information of users may be disclosed during data collection, during training, or even after releasing the trained learning model. Differential privacy (DP) is one of the main approaches proven to ensure strong privacy protection in data analysis. DP protects the users\u2019 privacy by adding noise to the original datase"
     },
     {
       "id": "openalex_W3171802458",
@@ -3745,7 +3745,7 @@
       "id": "openalex_W3186788521",
       "title": "Detecting cyberattacks using anomaly detection in industrial control systems: A Federated Learning approach",
       "authors": [
-        "Trương Thu Hương",
+        "Tr\u01b0\u01a1ng Thu H\u01b0\u01a1ng",
         "Ta Phuong Bac",
         "Dao Minh Long",
         "Tran Duc Luong",
@@ -3897,7 +3897,7 @@
     },
     {
       "id": "dblp_Babicheva21",
-      "title": "Machine Learning for the distributed and dynamic management of a fleet of taxis and autonomous shuttles. (Machine Learning pour la gestion distribuée et dynamique d'une flotte de taxis et navettes autonomes).",
+      "title": "Machine Learning for the distributed and dynamic management of a fleet of taxis and autonomous shuttles. (Machine Learning pour la gestion distribu\u00e9e et dynamique d'une flotte de taxis et navettes autonomes).",
       "authors": [
         "Tatiana Babicheva"
       ],
@@ -3984,7 +3984,7 @@
       "authors": [
         "Jia-Chang Feng",
         "Fa-Ting Hong",
-        "Wei‐Shi Zheng"
+        "Wei\u2010Shi Zheng"
       ],
       "year": 2021,
       "doi": "10.1109/cvpr46437.2021.01379",
@@ -4129,7 +4129,7 @@
         "Nguyen Cong Luong",
         "Dinh Thai Hoang",
         "Yutao Jiao",
-        "Ying‐Chang Liang",
+        "Ying\u2010Chang Liang",
         "Qiang Yang",
         "Dusit Niyato",
         "Chunyan Miao"
@@ -4178,24 +4178,24 @@
         "Peter Kairouz",
         "H. Brendan McMahan",
         "Brendan Avent",
-        "Aurélien Bellet",
+        "Aur\u00e9lien Bellet",
         "Mehdi Bennis",
         "Arjun Nitin Bhagoji",
         "Kallista Bonawitz",
         "Zachary Charles",
         "Graham Cormode",
         "Rachel Cummings",
-        "Rafael G. L. D’Oliveira",
+        "Rafael G. L. D\u2019Oliveira",
         "Hubert Eichner",
         "Salim El Rouayheb",
         "David Evans",
         "Joshua Gardner",
         "Zachary Garrett",
-        "Adrià Gascón",
+        "Adri\u00e0 Gasc\u00f3n",
         "Badih Ghazi",
         "Phillip B. Gibbons",
         "Marco Gruteser",
-        "Zaïd Harchaoui",
+        "Za\u00efd Harchaoui",
         "Chaoyang He",
         "Lingxiao He",
         "Zhouyuan Huo",
@@ -4205,16 +4205,16 @@
         "Tara Javidi",
         "Gauri Joshi",
         "Mikhail Khodak",
-        "Jakub Konečný",
+        "Jakub Kone\u010dn\u00fd",
         "Aleksandra Korolova",
         "Farinaz Koushanfar",
         "Sanmi Koyejo",
-        "Tancrède Lepoint",
+        "Tancr\u00e8de Lepoint",
         "Yang Liu",
         "Prateek Mittal",
         "Mehryar Mohri",
         "Richard Nock",
-        "Ayfer Özgür",
+        "Ayfer \u00d6zg\u00fcr",
         "Rasmus Pagh",
         "Hang Qi",
         "Daniel Ramage",
@@ -4225,7 +4225,7 @@
         "Sebastian U. Stich",
         "Ziteng Sun",
         "Ananda Theertha Suresh",
-        "Florian Tramèr",
+        "Florian Tram\u00e8r",
         "Praneeth Vepakomma",
         "Jianyu Wang",
         "Li Xiong",
@@ -4298,7 +4298,7 @@
     },
     {
       "id": "openalex_W3086579950",
-      "title": "DeepFed: Federated Deep Learning for Intrusion Detection in Industrial Cyber–Physical Systems",
+      "title": "DeepFed: Federated Deep Learning for Intrusion Detection in Industrial Cyber\u2013Physical Systems",
       "authors": [
         "Beibei Li",
         "Yuhao Wu",
@@ -4393,7 +4393,7 @@
       "authors": [
         "Wonsup Shin",
         "Seok-Jun Bu",
-        "Sung‐Bae Cho"
+        "Sung\u2010Bae Cho"
       ],
       "year": 2020,
       "doi": "10.1142/s0129065720500343",
@@ -4593,7 +4593,7 @@
       "authors": [
         "Georgios Kaissis",
         "Marcus R. Makowski",
-        "Daniel Rückert",
+        "Daniel R\u00fcckert",
         "Rickmer Braren"
       ],
       "year": 2020,
@@ -5053,7 +5053,7 @@
       "title": "Deep learning for cyber security intrusion detection: Approaches, datasets, and comparative study",
       "authors": [
         "Mohamed Amine Ferrag",
-        "Λέανδρος Μαγλαράς",
+        "\u039b\u03ad\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2 \u039c\u03b1\u03b3\u03bb\u03b1\u03c1\u03ac\u03c2",
         "Sotiris Moschoyiannis",
         "Helge Janicke"
       ],
@@ -5280,7 +5280,7 @@
       "title": "A Deep Learning Approach to Network Intrusion Detection",
       "authors": [
         "Nathan Shone",
-        "Trần Nguyên Ngọc",
+        "Tr\u1ea7n Nguy\u00ean Ng\u1ecdc",
         "Vu Dinh Phai",
         "Qi Shi"
       ],
@@ -5307,7 +5307,7 @@
         "Ilias Tsingenopoulos",
         "Jan Spooren",
         "Wouter Joosen",
-        "Elisabeth Ilie‐Zudor"
+        "Elisabeth Ilie\u2010Zudor"
       ],
       "year": 2018,
       "doi": "10.3390/app8122663",
@@ -5344,7 +5344,7 @@
         "methodology",
         "privacy-preserving"
       ],
-      "abstract": "Abstract Machine learning algorithms based on deep Neural Networks (NN) have achieved remarkable results and are being extensively used in different domains. On the other hand, with increasing growth of cloud services, several Machine Learning as a Service (MLaaS) are offered where training and deploying machine learning models are performed on cloud providers’ infrastructure. However, machine lea"
+      "abstract": "Abstract Machine learning algorithms based on deep Neural Networks (NN) have achieved remarkable results and are being extensively used in different domains. On the other hand, with increasing growth of cloud services, several Machine Learning as a Service (MLaaS) are offered where training and deploying machine learning models are performed on cloud providers\u2019 infrastructure. However, machine lea"
     },
     {
       "id": "openalex_W2793398195",
@@ -5400,7 +5400,7 @@
         "Chen Shen",
         "Yao Liu",
         "Hongtao Lu",
-        "Xian‐Sheng Hua"
+        "Xian\u2010Sheng Hua"
       ],
       "year": 2017,
       "doi": "10.1145/3123266.3123451",
@@ -5497,12 +5497,12 @@
       "source": "openalex",
       "paper_id": "W2268702383",
       "local_pdf_path": null,
-      "summary": "Codes are widely used in many engineering applications to offerrobustnessagainstnoise. In large-scale systems, there are several types of noise that can affect the performance of distributed machine learning algorithms—straggler nodes, system failures, or communication bottlenecks—but there has been...",
+      "summary": "Codes are widely used in many engineering applications to offerrobustnessagainstnoise. In large-scale systems, there are several types of noise that can affect the performance of distributed machine learning algorithms\u2014straggler nodes, system failures, or communication bottlenecks\u2014but there has been...",
       "tags": [
         "distributed-systems",
         "methodology"
       ],
-      "abstract": "Codes are widely used in many engineering applications to offerrobustnessagainstnoise. In large-scale systems, there are several types of noise that can affect the performance of distributed machine learning algorithms—straggler nodes, system failures, or communication bottlenecks—but there has been little interaction cutting across codes, machine learning, and distributed systems. In this paper, "
+      "abstract": "Codes are widely used in many engineering applications to offerrobustnessagainstnoise. In large-scale systems, there are several types of noise that can affect the performance of distributed machine learning algorithms\u2014straggler nodes, system failures, or communication bottlenecks\u2014but there has been little interaction cutting across codes, machine learning, and distributed systems. In this paper, "
     },
     {
       "id": "openalex_W2962788286",
@@ -5582,7 +5582,7 @@
       "title": "Maximally Divergent Intervals for Anomaly Detection",
       "authors": [
         "Erik Rodner",
-        "Björn Barz",
+        "Bj\u00f6rn Barz",
         "Yanira Guanche",
         "Milan Flach",
         "Miguel Mahecha",
@@ -5647,7 +5647,7 @@
       "id": "openalex_W2271840356",
       "title": "TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems",
       "authors": [
-        "Martı́n Abadi",
+        "Mart\u0131\u0301n Abadi",
         "Ashish Agarwal",
         "Paul Barham",
         "Eugene Brevdo",
@@ -5663,11 +5663,11 @@
         "Geoffrey Irving",
         "Michael Isard",
         "Yangqing Jia",
-        "Rafał Józefowicz",
-        "Łukasz Kaiser",
+        "Rafa\u0142 J\u00f3zefowicz",
+        "\u0141ukasz Kaiser",
         "Manjunath Kudlur",
         "Josh Levenberg",
-        "Dan Mané",
+        "Dan Man\u00e9",
         "Rajat Monga",
         "Sherry Moore",
         "Derek G. Murray",
@@ -5680,7 +5680,7 @@
         "Paul A. Tucker",
         "Vincent Vanhoucke",
         "Vijay Vasudevan",
-        "Fernanda Viégas",
+        "Fernanda Vi\u00e9gas",
         "Oriol Vinyals",
         "Pete Warden",
         "Martin Wattenberg",
@@ -5705,10 +5705,10 @@
       "id": "openalex_W2530417694",
       "title": "Federated Optimization: Distributed Machine Learning for On-Device Intelligence",
       "authors": [
-        "Jakub Konečný",
+        "Jakub Kone\u010dn\u00fd",
         "H. Brendan McMahan",
         "Daniel Ramage",
-        "Peter Richtárik"
+        "Peter Richt\u00e1rik"
       ],
       "year": 2016,
       "doi": "10.48550/arxiv.1610.02527",
@@ -5830,26 +5830,26 @@
       "source": "openalex",
       "paper_id": "W2184623761",
       "local_pdf_path": null,
-      "summary": "Machine learning (ML) and statistical techniques are key to transforming big data into actionable knowledge. In spite of the modern primacy of data, the complexity of existing ML algorithms is often overwhelming—many users do not understand the trade-offs and challenges of parameterizing and choosin...",
+      "summary": "Machine learning (ML) and statistical techniques are key to transforming big data into actionable knowledge. In spite of the modern primacy of data, the complexity of existing ML algorithms is often overwhelming\u2014many users do not understand the trade-offs and challenges of parameterizing and choosin...",
       "tags": [
         "distributed-systems",
         "edge-computing",
         "methodology"
       ],
-      "abstract": "Machine learning (ML) and statistical techniques are key to transforming big data into actionable knowledge. In spite of the modern primacy of data, the complexity of existing ML algorithms is often overwhelming—many users do not understand the trade-offs and challenges of parameterizing and choosing between different learning techniques. Furthermore, existing scalable systems that support machine"
+      "abstract": "Machine learning (ML) and statistical techniques are key to transforming big data into actionable knowledge. In spite of the modern primacy of data, the complexity of existing ML algorithms is often overwhelming\u2014many users do not understand the trade-offs and challenges of parameterizing and choosing between different learning techniques. Furthermore, existing scalable systems that support machine"
     },
     {
       "id": "openalex_W2101234009",
       "title": "Scikit-learn: Machine Learning in Python",
       "authors": [
-        "Fabián Pedregosa",
-        "Gaël Varoquaux",
+        "Fabi\u00e1n Pedregosa",
+        "Ga\u00ebl Varoquaux",
         "Alexandre Gramfort",
         "Vincent Michel",
         "Bertrand Thirion",
         "Olivier Grisel",
         "Mathieu Blondel",
-        "Müller, Andreas",
+        "M\u00fcller, Andreas",
         "Nothman, Joel",
         "Louppe, Gilles",
         "Peter Prettenhofer",
@@ -5860,7 +5860,7 @@
         "David Cournapeau",
         "Matthieu Brucher",
         "Matthieu Perrot",
-        "Édouard Duchesnay"
+        "\u00c9douard Duchesnay"
       ],
       "year": 2012,
       "doi": "10.48550/arxiv.1201.0490",
@@ -6003,12 +6003,12 @@
       "source": "crossref",
       "paper_id": "10.70675/3fa63c77z4e70z4395zb38fz9d8bfa4499e3",
       "local_pdf_path": null,
-      "summary": "<jats:title>Détection d'anomalies par apprentissage profond pour la surveillance par drone</jats:title>\n                <jats:p xml:lang=\"fr\">La sécurité civile est l'ensemble des moyens mis en œuvre par un État ou une organisation pour protéger les populations civiles, ainsi que leurs biens et acti...",
+      "summary": "<jats:title>D\u00e9tection d'anomalies par apprentissage profond pour la surveillance par drone</jats:title>\n                <jats:p xml:lang=\"fr\">La s\u00e9curit\u00e9 civile est l'ensemble des moyens mis en \u0153uvre par un \u00c9tat ou une organisation pour prot\u00e9ger les populations civiles, ainsi que leurs biens et acti...",
       "tags": [
         "anomaly-detection",
         "deep-learning"
       ],
-      "abstract": "<jats:title>Détection d'anomalies par apprentissage profond pour la surveillance par drone</jats:title>\n                <jats:p xml:lang=\"fr\">La sécurité civile est l'ensemble des moyens mis en œuvre par un État ou une organisation pour protéger les populations civiles, ainsi que leurs biens et activités, en temps de guerre, de crise et de paix, contre les risques ou menaces de toute nature. En ou"
+      "abstract": "<jats:title>D\u00e9tection d'anomalies par apprentissage profond pour la surveillance par drone</jats:title>\n                <jats:p xml:lang=\"fr\">La s\u00e9curit\u00e9 civile est l'ensemble des moyens mis en \u0153uvre par un \u00c9tat ou une organisation pour prot\u00e9ger les populations civiles, ainsi que leurs biens et activit\u00e9s, en temps de guerre, de crise et de paix, contre les risques ou menaces de toute nature. En ou"
     },
     {
       "id": "crossref_10.32657_10356_167272",
@@ -6040,11 +6040,11 @@
       "source": "crossref",
       "paper_id": "10.70675/f2b18e62z1092z4868z93a3z9765eff3e668",
       "local_pdf_path": null,
-      "summary": "<jats:title>Apprentissage automatique et confidentialité des données</jats:title>\n                <jats:p xml:lang=\"fr\">L'apprentissage automatique en tant que service (MLaaS) fait référence à un service qui permet aux entreprises de déléguer leurs tâches d'apprentissage automatique à un ou plusieur...",
+      "summary": "<jats:title>Apprentissage automatique et confidentialit\u00e9 des donn\u00e9es</jats:title>\n                <jats:p xml:lang=\"fr\">L'apprentissage automatique en tant que service (MLaaS) fait r\u00e9f\u00e9rence \u00e0 un service qui permet aux entreprises de d\u00e9l\u00e9guer leurs t\u00e2ches d'apprentissage automatique \u00e0 un ou plusieur...",
       "tags": [
         "privacy-preserving"
       ],
-      "abstract": "<jats:title>Apprentissage automatique et confidentialité des données</jats:title>\n                <jats:p xml:lang=\"fr\">L'apprentissage automatique en tant que service (MLaaS) fait référence à un service qui permet aux entreprises de déléguer leurs tâches d'apprentissage automatique à un ou plusieurs serveurs puissants, à savoir des serveurs cloud. Néanmoins, les entreprises sont confrontées à des"
+      "abstract": "<jats:title>Apprentissage automatique et confidentialit\u00e9 des donn\u00e9es</jats:title>\n                <jats:p xml:lang=\"fr\">L'apprentissage automatique en tant que service (MLaaS) fait r\u00e9f\u00e9rence \u00e0 un service qui permet aux entreprises de d\u00e9l\u00e9guer leurs t\u00e2ches d'apprentissage automatique \u00e0 un ou plusieurs serveurs puissants, \u00e0 savoir des serveurs cloud. N\u00e9anmoins, les entreprises sont confront\u00e9es \u00e0 des"
     },
     {
       "id": "crossref_10.14711_thesis-991013222949503412",
@@ -6068,7 +6068,7 @@
       "id": "crossref_10.12681_eadd_58917",
       "title": "Privacy preserving and efficient machine learning algorithms",
       "authors": [
-        "Ευσταθία Σουφλέρη"
+        "\u0395\u03c5\u03c3\u03c4\u03b1\u03b8\u03af\u03b1 \u03a3\u03bf\u03c5\u03c6\u03bb\u03ad\u03c1\u03b7"
       ],
       "year": 1970,
       "doi": "10.12681/eadd/58917",
@@ -6076,18 +6076,18 @@
       "source": "crossref",
       "paper_id": "10.12681/eadd/58917",
       "local_pdf_path": null,
-      "summary": "<jats:p>Η ευρεία διαθεσιμότητα δεδομένων έχει αποτελέσει καταλύτη για την ανάπτυξη της βαθιάς μάθησης. Οι εξελίξεις αυτές περιλαμβάνουν την ταξινόμηση εικόνων, την αναγνώριση ομιλίας και την επεξεργασία φυσικής γλώσσας. Ωστόσο, η πρόοδος που βασίζεται στα δεδομένα συχνά παρεμποδίζεται από περιορισμο...",
+      "summary": "<jats:p>\u0397 \u03b5\u03c5\u03c1\u03b5\u03af\u03b1 \u03b4\u03b9\u03b1\u03b8\u03b5\u03c3\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ad\u03c7\u03b5\u03b9 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03b5\u03b9 \u03ba\u03b1\u03c4\u03b1\u03bb\u03cd\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b2\u03b1\u03b8\u03b9\u03ac\u03c2 \u03bc\u03ac\u03b8\u03b7\u03c3\u03b7\u03c2. \u039f\u03b9 \u03b5\u03be\u03b5\u03bb\u03af\u03be\u03b5\u03b9\u03c2 \u03b1\u03c5\u03c4\u03ad\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03b5\u03b9\u03ba\u03cc\u03bd\u03c9\u03bd, \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03b3\u03bd\u03ce\u03c1\u03b9\u03c3\u03b7 \u03bf\u03bc\u03b9\u03bb\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2. \u03a9\u03c3\u03c4\u03cc\u03c3\u03bf, \u03b7 \u03c0\u03c1\u03cc\u03bf\u03b4\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03b2\u03b1\u03c3\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03c3\u03c5\u03c7\u03bd\u03ac \u03c0\u03b1\u03c1\u03b5\u03bc\u03c0\u03bf\u03b4\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf...",
       "tags": [
         "methodology",
         "privacy-preserving"
       ],
-      "abstract": "<jats:p>Η ευρεία διαθεσιμότητα δεδομένων έχει αποτελέσει καταλύτη για την ανάπτυξη της βαθιάς μάθησης. Οι εξελίξεις αυτές περιλαμβάνουν την ταξινόμηση εικόνων, την αναγνώριση ομιλίας και την επεξεργασία φυσικής γλώσσας. Ωστόσο, η πρόοδος που βασίζεται στα δεδομένα συχνά παρεμποδίζεται από περιορισμούς ιδιωτικότητας, οι οποίοι εμποδίζουν τη δημόσια διάθεση ορισμένων συνόλων δεδομένων. Για παράδειγμ"
+      "abstract": "<jats:p>\u0397 \u03b5\u03c5\u03c1\u03b5\u03af\u03b1 \u03b4\u03b9\u03b1\u03b8\u03b5\u03c3\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ad\u03c7\u03b5\u03b9 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03b5\u03b9 \u03ba\u03b1\u03c4\u03b1\u03bb\u03cd\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b2\u03b1\u03b8\u03b9\u03ac\u03c2 \u03bc\u03ac\u03b8\u03b7\u03c3\u03b7\u03c2. \u039f\u03b9 \u03b5\u03be\u03b5\u03bb\u03af\u03be\u03b5\u03b9\u03c2 \u03b1\u03c5\u03c4\u03ad\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03b5\u03b9\u03ba\u03cc\u03bd\u03c9\u03bd, \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03b3\u03bd\u03ce\u03c1\u03b9\u03c3\u03b7 \u03bf\u03bc\u03b9\u03bb\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2. \u03a9\u03c3\u03c4\u03cc\u03c3\u03bf, \u03b7 \u03c0\u03c1\u03cc\u03bf\u03b4\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03b2\u03b1\u03c3\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03c3\u03c5\u03c7\u03bd\u03ac \u03c0\u03b1\u03c1\u03b5\u03bc\u03c0\u03bf\u03b4\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03cd\u03c2 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2, \u03bf\u03b9 \u03bf\u03c0\u03bf\u03af\u03bf\u03b9 \u03b5\u03bc\u03c0\u03bf\u03b4\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b7 \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03b8\u03b5\u03c3\u03b7 \u03bf\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03c5\u03bd\u03cc\u03bb\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd. \u0393\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03b3\u03bc"
     },
     {
       "id": "crossref_10.70675_196b5530z3b09z4e13z8ec5zbc53bdad6b5e",
       "title": "Cryptography for privacy-preserving machine learning",
       "authors": [
-        "Théo Ryffel"
+        "Th\u00e9o Ryffel"
       ],
       "year": 1970,
       "doi": "10.70675/196b5530z3b09z4e13z8ec5zbc53bdad6b5e",
@@ -6095,11 +6095,11 @@
       "source": "crossref",
       "paper_id": "10.70675/196b5530z3b09z4e13z8ec5zbc53bdad6b5e",
       "local_pdf_path": null,
-      "summary": "<jats:title>La cryptographie au service de l'apprentissage automatique respectueux de la vie privée</jats:title>\n                <jats:p xml:lang=\"fr\">L’usage sans précédent du machine learning (ML) ou apprentissage automatique, motivé par les possibilités qu’il apporte dans un grand nombre de secte...",
+      "summary": "<jats:title>La cryptographie au service de l'apprentissage automatique respectueux de la vie priv\u00e9e</jats:title>\n                <jats:p xml:lang=\"fr\">L\u2019usage sans pr\u00e9c\u00e9dent du machine learning (ML) ou apprentissage automatique, motiv\u00e9 par les possibilit\u00e9s qu\u2019il apporte dans un grand nombre de secte...",
       "tags": [
         "privacy-preserving"
       ],
-      "abstract": "<jats:title>La cryptographie au service de l'apprentissage automatique respectueux de la vie privée</jats:title>\n                <jats:p xml:lang=\"fr\">L’usage sans précédent du machine learning (ML) ou apprentissage automatique, motivé par les possibilités qu’il apporte dans un grand nombre de secteurs, interroge de plus en plus en raison du caractère sensible des données qui doivent être utilisée"
+      "abstract": "<jats:title>La cryptographie au service de l'apprentissage automatique respectueux de la vie priv\u00e9e</jats:title>\n                <jats:p xml:lang=\"fr\">L\u2019usage sans pr\u00e9c\u00e9dent du machine learning (ML) ou apprentissage automatique, motiv\u00e9 par les possibilit\u00e9s qu\u2019il apporte dans un grand nombre de secteurs, interroge de plus en plus en raison du caract\u00e8re sensible des donn\u00e9es qui doivent \u00eatre utilis\u00e9e"
     },
     {
       "id": "crossref_10.70675_c39e4a00z7d9dz4d18za65ez8d2292e27605",
@@ -6113,13 +6113,13 @@
       "source": "crossref",
       "paper_id": "10.70675/c39e4a00z7d9dz4d18za65ez8d2292e27605",
       "local_pdf_path": null,
-      "summary": "<jats:title>Apprentissage automatique distribué robuste et respectueux de la vie privée</jats:title>\n                <jats:p xml:lang=\"fr\">Avec l’omniprésence des services numériques, d’´énormes quantités de données sont continuellement générées et collectées. Les algorithmes d’apprentissage automat...",
+      "summary": "<jats:title>Apprentissage automatique distribu\u00e9 robuste et respectueux de la vie priv\u00e9e</jats:title>\n                <jats:p xml:lang=\"fr\">Avec l\u2019omnipr\u00e9sence des services num\u00e9riques, d\u2019\u00b4\u00e9normes quantit\u00e9s de donn\u00e9es sont continuellement g\u00e9n\u00e9r\u00e9es et collect\u00e9es. Les algorithmes d\u2019apprentissage automat...",
       "tags": [
         "distributed-systems",
         "methodology",
         "privacy-preserving"
       ],
-      "abstract": "<jats:title>Apprentissage automatique distribué robuste et respectueux de la vie privée</jats:title>\n                <jats:p xml:lang=\"fr\">Avec l’omniprésence des services numériques, d’´énormes quantités de données sont continuellement générées et collectées. Les algorithmes d’apprentissage automatique (ML) permettant d’extraire des connaissances précieuses à partir de ces données et ont été appl"
+      "abstract": "<jats:title>Apprentissage automatique distribu\u00e9 robuste et respectueux de la vie priv\u00e9e</jats:title>\n                <jats:p xml:lang=\"fr\">Avec l\u2019omnipr\u00e9sence des services num\u00e9riques, d\u2019\u00b4\u00e9normes quantit\u00e9s de donn\u00e9es sont continuellement g\u00e9n\u00e9r\u00e9es et collect\u00e9es. Les algorithmes d\u2019apprentissage automatique (ML) permettant d\u2019extraire des connaissances pr\u00e9cieuses \u00e0 partir de ces donn\u00e9es et ont \u00e9t\u00e9 appl"
     },
     {
       "id": "crossref_10.33612_diss.1139532528",
@@ -6182,7 +6182,7 @@
       "id": "crossref_10.12681_eadd_57591",
       "title": "Distributed ledger technologies (DLT) and machine learning",
       "authors": [
-        "Ανδρέας-Ρόναλντ Σορτ"
+        "\u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2-\u03a1\u03cc\u03bd\u03b1\u03bb\u03bd\u03c4 \u03a3\u03bf\u03c1\u03c4"
       ],
       "year": 1970,
       "doi": "10.12681/eadd/57591",
@@ -6190,13 +6190,13 @@
       "source": "crossref",
       "paper_id": "10.12681/eadd/57591",
       "local_pdf_path": null,
-      "summary": "<jats:p>Η παρούσα διδακτορική διατριβή ερευνά τα οφέλη που προκύπτουν από τον συνδυασμό τεχνολογιών από τους ακόλουθους τομείς: α) ομόσπονδη μάθηση (Federated Learning, β) τεχνολογίες κατανεμημένου καθολικού (Distributed Ledger Technologies) όπως είναι τα Blockchain δίκτυα και γ) βιομηχανικές εφαρμο...",
+      "summary": "<jats:p>\u0397 \u03c0\u03b1\u03c1\u03bf\u03cd\u03c3\u03b1 \u03b4\u03b9\u03b4\u03b1\u03ba\u03c4\u03bf\u03c1\u03b9\u03ba\u03ae \u03b4\u03b9\u03b1\u03c4\u03c1\u03b9\u03b2\u03ae \u03b5\u03c1\u03b5\u03c5\u03bd\u03ac \u03c4\u03b1 \u03bf\u03c6\u03ad\u03bb\u03b7 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ba\u03cd\u03c0\u03c4\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c3\u03c5\u03bd\u03b4\u03c5\u03b1\u03c3\u03bc\u03cc \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ce\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03b1\u03ba\u03cc\u03bb\u03bf\u03c5\u03b8\u03bf\u03c5\u03c2 \u03c4\u03bf\u03bc\u03b5\u03af\u03c2: \u03b1) \u03bf\u03bc\u03cc\u03c3\u03c0\u03bf\u03bd\u03b4\u03b7 \u03bc\u03ac\u03b8\u03b7\u03c3\u03b7 (Federated Learning, \u03b2) \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b5\u03c2 \u03ba\u03b1\u03c4\u03b1\u03bd\u03b5\u03bc\u03b7\u03bc\u03ad\u03bd\u03bf\u03c5 \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03bf\u03cd (Distributed Ledger Technologies) \u03cc\u03c0\u03c9\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 Blockchain \u03b4\u03af\u03ba\u03c4\u03c5\u03b1 \u03ba\u03b1\u03b9 \u03b3) \u03b2\u03b9\u03bf\u03bc\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf...",
       "tags": [
         "distributed-systems",
         "edge-computing",
         "federated-learning"
       ],
-      "abstract": "<jats:p>Η παρούσα διδακτορική διατριβή ερευνά τα οφέλη που προκύπτουν από τον συνδυασμό τεχνολογιών από τους ακόλουθους τομείς: α) ομόσπονδη μάθηση (Federated Learning, β) τεχνολογίες κατανεμημένου καθολικού (Distributed Ledger Technologies) όπως είναι τα Blockchain δίκτυα και γ) βιομηχανικές εφαρμογές. Η συνεχώς αυξανόμενη χρήση εφαρμογών τεχνητής νοημοσύνης έχει καταστήσει εμφανές ότι η ποιότητα"
+      "abstract": "<jats:p>\u0397 \u03c0\u03b1\u03c1\u03bf\u03cd\u03c3\u03b1 \u03b4\u03b9\u03b4\u03b1\u03ba\u03c4\u03bf\u03c1\u03b9\u03ba\u03ae \u03b4\u03b9\u03b1\u03c4\u03c1\u03b9\u03b2\u03ae \u03b5\u03c1\u03b5\u03c5\u03bd\u03ac \u03c4\u03b1 \u03bf\u03c6\u03ad\u03bb\u03b7 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ba\u03cd\u03c0\u03c4\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c3\u03c5\u03bd\u03b4\u03c5\u03b1\u03c3\u03bc\u03cc \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ce\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03b1\u03ba\u03cc\u03bb\u03bf\u03c5\u03b8\u03bf\u03c5\u03c2 \u03c4\u03bf\u03bc\u03b5\u03af\u03c2: \u03b1) \u03bf\u03bc\u03cc\u03c3\u03c0\u03bf\u03bd\u03b4\u03b7 \u03bc\u03ac\u03b8\u03b7\u03c3\u03b7 (Federated Learning, \u03b2) \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b5\u03c2 \u03ba\u03b1\u03c4\u03b1\u03bd\u03b5\u03bc\u03b7\u03bc\u03ad\u03bd\u03bf\u03c5 \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03bf\u03cd (Distributed Ledger Technologies) \u03cc\u03c0\u03c9\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 Blockchain \u03b4\u03af\u03ba\u03c4\u03c5\u03b1 \u03ba\u03b1\u03b9 \u03b3) \u03b2\u03b9\u03bf\u03bc\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2. \u0397 \u03c3\u03c5\u03bd\u03b5\u03c7\u03ce\u03c2 \u03b1\u03c5\u03be\u03b1\u03bd\u03cc\u03bc\u03b5\u03bd\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ce\u03bd \u03c4\u03b5\u03c7\u03bd\u03b7\u03c4\u03ae\u03c2 \u03bd\u03bf\u03b7\u03bc\u03bf\u03c3\u03cd\u03bd\u03b7\u03c2 \u03ad\u03c7\u03b5\u03b9 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03b9 \u03b5\u03bc\u03c6\u03b1\u03bd\u03ad\u03c2 \u03cc\u03c4\u03b9 \u03b7 \u03c0\u03bf\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1"
     },
     {
       "id": "crossref_10.17760_d20621564",
